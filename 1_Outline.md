@@ -55,6 +55,8 @@ Proceedings of the Thirteenth Workshop on Innovative Use of NLP for Building Edu
 #### Vajjala, Sowmya, and Taraka Rama. 2018. “Experiments with Universal CEFR classifications”. In Proceedings of Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, pp. 147–153.
 http://aclweb.org/anthology/W18-0515
 Major reproduction comparables: f-score values (tables 2, 3 and 4).
+https://github.com/nishkalavallabhi/UniversalCEFRScoring
+
 
 ####  BEA2019 TASK : issues and details  (the proposed project)
 
