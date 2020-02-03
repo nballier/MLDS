@@ -1,19 +1,27 @@
 # PHONOLOGY 
 
 
-CMU Resources 
-(part of the NLTK toolkit)
-Dedicated python packages: Pronouncing  
+#CMU Resources   <br/>
+(part of the NLTK toolkit)  <br/>
+Dedicated python packages: Pronouncing   <br/>
 
+#CELEX database
 
-CELEX database
-
-French: 
-http://www.lexique.org/
-
-
- Une base de données lexicales du français contemporain sur internet : LEXIQUE™//A lexical database for contemporary French : LEXIQUE™ [https://www.persee.fr/doc/psy_0003-5033_2001_num_101_3_1341]
-New sem-linkC. Pallier sem-linkL. Ferrand sem-linkR. Matos
+#French: A lexical database for contemporary French : LEXIQUE™  <br/>
+[A lexical database](http://www.lexique.org/) <br/>
+[Pallier et al. 2001](https://www.persee.fr/doc/psy_0003-5033_2001_num_101_3_1341]) <br/>
+Pallier Ch. et al. 2001 Une base de données lexicales du français contemporain sur internet : LEXIQUE™  <br/>
 //L'Année psychologique// Année 2001 101-3-4 pp. 447-462
 
+
+#ALIGNERS <br/>
+https://eleanorchodroff.com/tutorial/index.html
+
+[forced-alignment-tools, A collection of links and notes on forced alignment tools
+by Alberto Pettarin](https://github.com/pettarin/forced-alignment-tools)
+
+
+
+MISC
+[Phonetic conversion (and text to speech)](https://tophonetics.com/) <br/>
 
