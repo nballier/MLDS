@@ -29,11 +29,14 @@ discussion </br>
 conclusion </br>
 acknowledgement: be explicit about how you split the work, say who did what</br>
 
+### DEADLINE: dimanche 22 mars 23h59
+nicolas.ballier 'AT' u-paris.fr
+
+# HELPDESK jeudi 19 mars 2020 14h-17h30
+
 
 ### ÈXPECTED FORMAT OF THE PAPER <br>
 Apply ACL Stylesheets  and [templates (Latex, Word)  available here](http://acl2020.org/downloads/acl2020-templates.zip)
-
-
 
 
 
