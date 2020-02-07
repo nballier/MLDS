@@ -36,6 +36,10 @@ Download Praat for Phonetic / acoustic analysis <br/>
 - train model
 
 
+EXAMPLE
+Adrien Méli's PhD
+http://mapage.noos.fr/admeli/soutenance/#/
+
 
 MISC
 [Phonetic conversion (and text to speech)](https://tophonetics.com/) <br/>
