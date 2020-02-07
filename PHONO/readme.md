@@ -26,9 +26,14 @@ by Alberto Pettarin](https://github.com/pettarin/forced-alignment-tools)
 Install SPPAS <br/>
 test the files and create your own annotation <br/>
 
-
 PRAAT <br/>
 Download Praat for Phonetic / acoustic analysis <br/>
+
+
+- align data 
+- extract data
+- analyse data 
+- train model
 
 
 
