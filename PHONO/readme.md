@@ -21,7 +21,12 @@ https://eleanorchodroff.com/tutorial/index.html
 by Alberto Pettarin](https://github.com/pettarin/forced-alignment-tools)
 
 
+[SPPAS](http://www.sppas.org/)
+
 
 MISC
 [Phonetic conversion (and text to speech)](https://tophonetics.com/) <br/>
+
+
+
 
