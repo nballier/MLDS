@@ -58,6 +58,8 @@ S. Hershey et al., ‘CNN Architectures for Large-Scale Audio Classification’,
 https://deepmind.com/blog/article/wavenet-generative-model-raw-audio
 
 ###### TACOTRON
+https://github.com/NVIDIA/tacotron2
+https://google.github.io/tacotron/
 
 
 ## Feb 14, 2020 
