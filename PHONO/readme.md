@@ -14,14 +14,22 @@ Pallier Ch. et al. 2001 Une base de données lexicales du français contemporain
 //L'Année psychologique// Année 2001 101-3-4 pp. 447-462
 
 
-#ALIGNERS <br/>
+###ALIGNERS <br/>
 https://eleanorchodroff.com/tutorial/index.html
 
 [forced-alignment-tools, A collection of links and notes on forced alignment tools
 by Alberto Pettarin](https://github.com/pettarin/forced-alignment-tools)
 
 
-[SPPAS](http://www.sppas.org/)
+[SPPAS](http://www.sppas.org/) <br/>
+
+Install SPPAS <br/>
+test the files and create your own annotation <br/>
+
+
+PRAAT <br/>
+Download Praat for Phonetic / acoustic analysis <br/>
+
 
 
 MISC
