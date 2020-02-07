@@ -1,0 +1,1370 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 24.816326530612244 
+tiers? <exists> 
+size = 3 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "transcription" 
+        xmin = 0 
+        xmax = 24.816326530612244 
+        intervals: size = 26 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3601632653061213 
+            text = "silent" 
+        intervals [2]:
+            xmin = 1.3601632653061213 
+            xmax = 2.400163265306121 
+            text = "please call stella" 
+        intervals [3]:
+            xmin = 2.400163265306121 
+            xmax = 2.6481632653061213 
+            text = "silent" 
+        intervals [4]:
+            xmin = 2.6481632653061213 
+            xmax = 5.062633953805129 
+            text = "ask her to bring these things with her from the store" 
+        intervals [5]:
+            xmin = 5.062633953805129 
+            xmax = 5.496220155396476 
+            text = "silent" 
+        intervals [6]:
+            xmin = 5.496220155396476 
+            xmax = 7.305054039405709 
+            text = "six spoons of fresh snow peas" 
+        intervals [7]:
+            xmin = 7.305054039405709 
+            xmax = 7.672163265306121 
+            text = "silent" 
+        intervals [8]:
+            xmin = 7.672163265306121 
+            xmax = 7.8641632653061215 
+            text = "five" 
+        intervals [9]:
+            xmin = 7.8641632653061215 
+            xmax = 7.992163265306122 
+            text = "silent" 
+        intervals [10]:
+            xmin = 7.992163265306122 
+            xmax = 11.73033329760276 
+            text = "thick slabs of blue cheese and maybe a snack for her brother Bob" 
+        intervals [11]:
+            xmin = 11.73033329760276 
+            xmax = 12.215113541947044 
+            text = "silent" 
+        intervals [12]:
+            xmin = 12.215113541947044 
+            xmax = 14.768163265306121 
+            text = "We also need a small plastic snake and a big " 
+        intervals [13]:
+            xmin = 14.768163265306121 
+            xmax = 14.928163265306122 
+            text = "silent" 
+        intervals [14]:
+            xmin = 14.928163265306122 
+            xmax = 15.53616326530612 
+            text = "toy frog" 
+        intervals [15]:
+            xmin = 15.53616326530612 
+            xmax = 15.66416326530612 
+            text = "silent" 
+        intervals [16]:
+            xmin = 15.66416326530612 
+            xmax = 16.336163265306123 
+            text = "for the kids" 
+        intervals [17]:
+            xmin = 16.336163265306123 
+            xmax = 16.793099963641854 
+            text = "silent" 
+        intervals [18]:
+            xmin = 16.793099963641854 
+            xmax = 21.368358448302935 
+            text = "she can scoop these things into three red bags and we will go meet her wednesday" 
+        intervals [19]:
+            xmin = 21.368358448302935 
+            xmax = 21.62416326530612 
+            text = "silent" 
+        intervals [20]:
+            xmin = 21.62416326530612 
+            xmax = 21.79144952348068 
+            text = "at the" 
+        intervals [21]:
+            xmin = 21.79144952348068 
+            xmax = 21.912218690631494 
+            text = "" 
+        intervals [22]:
+            xmin = 21.912218690631494 
+            xmax = 22.492150579630295 
+            text = "train station" 
+        intervals [23]:
+            xmin = 22.492150579630295 
+            xmax = 23.23216326530612 
+            text = "silent" 
+        intervals [24]:
+            xmin = 23.23216326530612 
+            xmax = 23.344163265306122 
+            text = "sounding" 
+        intervals [25]:
+            xmin = 23.344163265306122 
+            xmax = 23.52016326530612 
+            text = "silent" 
+        intervals [26]:
+            xmin = 23.52016326530612 
+            xmax = 24.816326530612244 
+            text = "sounding" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "word" 
+        xmin = 0 
+        xmax = 24.816326530612244 
+        intervals: size = 79 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3601632653061213 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3601632653061213 
+            xmax = 1.6249931972789118 
+            text = "please" 
+        intervals [3]:
+            xmin = 1.6249931972789118 
+            xmax = 1.903996598639456 
+            text = "call" 
+        intervals [4]:
+            xmin = 1.903996598639456 
+            xmax = 2.400163265306121 
+            text = "stella" 
+        intervals [5]:
+            xmin = 2.400163265306121 
+            xmax = 2.6481632653061213 
+            text = "" 
+        intervals [6]:
+            xmin = 2.6481632653061213 
+            xmax = 2.9103262164495862 
+            text = "ask" 
+        intervals [7]:
+            xmin = 2.9103262164495862 
+            xmax = 2.981831245109287 
+            text = "her" 
+        intervals [8]:
+            xmin = 2.981831245109287 
+            xmax = 3.1386368802801305 
+            text = "to" 
+        intervals [9]:
+            xmin = 3.1386368802801305 
+            xmax = 3.442651687471597 
+            text = "bring" 
+        intervals [10]:
+            xmin = 3.442651687471597 
+            xmax = 3.6661615646258516 
+            text = "these" 
+        intervals [11]:
+            xmin = 3.6661615646258516 
+            xmax = 4.052556144527606 
+            text = "things" 
+        intervals [12]:
+            xmin = 4.052556144527606 
+            xmax = 4.213910450982674 
+            text = "with" 
+        intervals [13]:
+            xmin = 4.213910450982674 
+            xmax = 4.362998654341493 
+            text = "her" 
+        intervals [14]:
+            xmin = 4.362998654341493 
+            xmax = 4.7472832778786795 
+            text = "from the" 
+        intervals [15]:
+            xmin = 4.7472832778786795 
+            xmax = 5.062633953805129 
+            text = "store" 
+        intervals [16]:
+            xmin = 5.062633953805129 
+            xmax = 5.496220155396476 
+            text = "" 
+        intervals [17]:
+            xmin = 5.496220155396476 
+            xmax = 5.784170680976248 
+            text = "six" 
+        intervals [18]:
+            xmin = 5.784170680976248 
+            xmax = 6.177799483820135 
+            text = "spoons" 
+        intervals [19]:
+            xmin = 6.177799483820135 
+            xmax = 6.323365079365081 
+            text = "of" 
+        intervals [20]:
+            xmin = 6.323365079365081 
+            xmax = 6.622932539682541 
+            text = "fresh" 
+        intervals [21]:
+            xmin = 6.622932539682541 
+            xmax = 6.948 
+            text = "snow" 
+        intervals [22]:
+            xmin = 6.948 
+            xmax = 7.305054039405709 
+            text = "peas" 
+        intervals [23]:
+            xmin = 7.305054039405709 
+            xmax = 7.672163265306121 
+            text = "" 
+        intervals [24]:
+            xmin = 7.672163265306121 
+            xmax = 7.8641632653061215 
+            text = "five" 
+        intervals [25]:
+            xmin = 7.8641632653061215 
+            xmax = 7.992163265306122 
+            text = "" 
+        intervals [26]:
+            xmin = 7.992163265306122 
+            xmax = 8.15565741493185 
+            text = "thick" 
+        intervals [27]:
+            xmin = 8.15565741493185 
+            xmax = 8.647264172335598 
+            text = "slabs" 
+        intervals [28]:
+            xmin = 8.647264172335598 
+            xmax = 8.80111995129173 
+            text = "of" 
+        intervals [29]:
+            xmin = 8.80111995129173 
+            xmax = 9.06949687037236 
+            text = "blue" 
+        intervals [30]:
+            xmin = 9.06949687037236 
+            xmax = 9.824681799554595 
+            text = "cheese" 
+        intervals [31]:
+            xmin = 9.824681799554595 
+            xmax = 9.93909257114683 
+            text = "and" 
+        intervals [32]:
+            xmin = 9.93909257114683 
+            xmax = 10.234534343939073 
+            text = "maybe" 
+        intervals [33]:
+            xmin = 10.234534343939073 
+            xmax = 10.308965986394556 
+            text = "a" 
+        intervals [34]:
+            xmin = 10.308965986394556 
+            xmax = 10.70297846581925 
+            text = "snack" 
+        intervals [35]:
+            xmin = 10.70297846581925 
+            xmax = 10.929764172335599 
+            text = "for" 
+        intervals [36]:
+            xmin = 10.929764172335599 
+            xmax = 11.028260820923467 
+            text = "her" 
+        intervals [37]:
+            xmin = 11.028260820923467 
+            xmax = 11.39185138381048 
+            text = "brother" 
+        intervals [38]:
+            xmin = 11.39185138381048 
+            xmax = 11.73033329760276 
+            text = "Bob." 
+        intervals [39]:
+            xmin = 11.73033329760276 
+            xmax = 12.215113541947044 
+            text = "" 
+        intervals [40]:
+            xmin = 12.215113541947044 
+            xmax = 12.403401512013533 
+            text = "We" 
+        intervals [41]:
+            xmin = 12.403401512013533 
+            xmax = 12.748053497358447 
+            text = "also" 
+        intervals [42]:
+            xmin = 12.748053497358447 
+            xmax = 12.958562358276641 
+            text = "need" 
+        intervals [43]:
+            xmin = 12.958562358276641 
+            xmax = 13.028711451247162 
+            text = "a" 
+        intervals [44]:
+            xmin = 13.028711451247162 
+            xmax = 13.363880306073126 
+            text = "small" 
+        intervals [45]:
+            xmin = 13.363880306073126 
+            xmax = 13.931552783349485 
+            text = "plastic" 
+        intervals [46]:
+            xmin = 13.931552783349485 
+            xmax = 14.382034248341816 
+            text = "snake" 
+        intervals [47]:
+            xmin = 14.382034248341816 
+            xmax = 14.528769011221216 
+            text = "and" 
+        intervals [48]:
+            xmin = 14.528769011221216 
+            xmax = 14.57216024445975 
+            text = "a" 
+        intervals [49]:
+            xmin = 14.57216024445975 
+            xmax = 14.768163265306121 
+            text = "big" 
+        intervals [50]:
+            xmin = 14.768163265306121 
+            xmax = 14.928163265306122 
+            text = "" 
+        intervals [51]:
+            xmin = 14.928163265306122 
+            xmax = 15.166462585034013 
+            text = "toy" 
+        intervals [52]:
+            xmin = 15.166462585034013 
+            xmax = 15.53616326530612 
+            text = "frog" 
+        intervals [53]:
+            xmin = 15.53616326530612 
+            xmax = 15.66416326530612 
+            text = "" 
+        intervals [54]:
+            xmin = 15.66416326530612 
+            xmax = 15.904025973770885 
+            text = "for the" 
+        intervals [55]:
+            xmin = 15.904025973770885 
+            xmax = 16.336163265306123 
+            text = "kids" 
+        intervals [56]:
+            xmin = 16.336163265306123 
+            xmax = 16.793099963641854 
+            text = "" 
+        intervals [57]:
+            xmin = 16.793099963641854 
+            xmax = 17.060769841269842 
+            text = "she" 
+        intervals [58]:
+            xmin = 17.060769841269842 
+            xmax = 17.352168404327855 
+            text = "can" 
+        intervals [59]:
+            xmin = 17.352168404327855 
+            xmax = 17.757140635501102 
+            text = "scoop" 
+        intervals [60]:
+            xmin = 17.757140635501102 
+            xmax = 17.97326984126984 
+            text = "these" 
+        intervals [61]:
+            xmin = 17.97326984126984 
+            xmax = 18.393769841269844 
+            text = "things" 
+        intervals [62]:
+            xmin = 18.393769841269844 
+            xmax = 18.70026984126984 
+            text = "into" 
+        intervals [63]:
+            xmin = 18.70026984126984 
+            xmax = 19.000923080353555 
+            text = "three" 
+        intervals [64]:
+            xmin = 19.000923080353555 
+            xmax = 19.241492893596792 
+            text = "red" 
+        intervals [65]:
+            xmin = 19.241492893596792 
+            xmax = 19.644341261896585 
+            text = "bags" 
+        intervals [66]:
+            xmin = 19.644341261896585 
+            xmax = 19.82776984126984 
+            text = "and" 
+        intervals [67]:
+            xmin = 19.82776984126984 
+            xmax = 19.99426984126984 
+            text = "we" 
+        intervals [68]:
+            xmin = 19.99426984126984 
+            xmax = 20.173532032430053 
+            text = "will" 
+        intervals [69]:
+            xmin = 20.173532032430053 
+            xmax = 20.379269841269842 
+            text = "go" 
+        intervals [70]:
+            xmin = 20.379269841269842 
+            xmax = 20.631769841269843 
+            text = "meet" 
+        intervals [71]:
+            xmin = 20.631769841269843 
+            xmax = 20.788450113378683 
+            text = "her" 
+        intervals [72]:
+            xmin = 20.788450113378683 
+            xmax = 21.368358448302935 
+            text = "wednesday" 
+        intervals [73]:
+            xmin = 21.368358448302935 
+            xmax = 21.62416326530612 
+            text = "" 
+        intervals [74]:
+            xmin = 21.62416326530612 
+            xmax = 21.73821541950113 
+            text = "at" 
+        intervals [75]:
+            xmin = 21.73821541950113 
+            xmax = 21.791344660537646 
+            text = "the" 
+        intervals [76]:
+            xmin = 21.791344660537646 
+            xmax = 21.912218690631494 
+            text = "" 
+        intervals [77]:
+            xmin = 21.912218690631494 
+            xmax = 22.115215419501133 
+            text = "train" 
+        intervals [78]:
+            xmin = 22.115215419501133 
+            xmax = 22.492150579630295 
+            text = "station" 
+        intervals [79]:
+            xmin = 22.492150579630295 
+            xmax = 24.816326530612244 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "phon" 
+        xmin = 0 
+        xmax = 24.816326530612244 
+        intervals: size = 231 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.3601632653061213 
+            text = "" 
+        intervals [2]:
+            xmin = 1.3601632653061213 
+            xmax = 1.4082032538808145 
+            text = "p" 
+        intervals [3]:
+            xmin = 1.4082032538808145 
+            xmax = 1.4538473555660472 
+            text = "l" 
+        intervals [4]:
+            xmin = 1.4538473555660472 
+            xmax = 1.5396582667342849 
+            text = "i\:f" 
+        intervals [5]:
+            xmin = 1.5396582667342849 
+            xmax = 1.6249931972789118 
+            text = "z" 
+        intervals [6]:
+            xmin = 1.6249931972789118 
+            xmax = 1.751446898553765 
+            text = "k" 
+        intervals [7]:
+            xmin = 1.751446898553765 
+            xmax = 1.8372578097220027 
+            text = "\ct\:f" 
+        intervals [8]:
+            xmin = 1.8372578097220027 
+            xmax = 1.903996598639456 
+            text = "l" 
+        intervals [9]:
+            xmin = 1.903996598639456 
+            xmax = 2.006996598639456 
+            text = "s" 
+        intervals [10]:
+            xmin = 2.006996598639456 
+            xmax = 2.072781374417804 
+            text = "t" 
+        intervals [11]:
+            xmin = 2.072781374417804 
+            xmax = 2.143986173046767 
+            text = "\ef" 
+        intervals [12]:
+            xmin = 2.143986173046767 
+            xmax = 2.226145556080186 
+            text = "l" 
+        intervals [13]:
+            xmin = 2.226145556080186 
+            xmax = 2.400163265306121 
+            text = "\at" 
+        intervals [14]:
+            xmin = 2.400163265306121 
+            xmax = 2.6481632653061213 
+            text = "" 
+        intervals [15]:
+            xmin = 2.6481632653061213 
+            xmax = 2.73997600111324 
+            text = "\as\:f" 
+        intervals [16]:
+            xmin = 2.73997600111324 
+            xmax = 2.8629954648526086 
+            text = "s" 
+        intervals [17]:
+            xmin = 2.8629954648526086 
+            xmax = 2.9103262164495862 
+            text = "k" 
+        intervals [18]:
+            xmin = 2.9103262164495862 
+            xmax = 2.91819230596389 
+            text = "h" 
+        intervals [19]:
+            xmin = 2.91819230596389 
+            xmax = 2.981831245109287 
+            text = "\er\:f" 
+        intervals [20]:
+            xmin = 2.981831245109287 
+            xmax = 3.0754187090903664 
+            text = "t" 
+        intervals [21]:
+            xmin = 3.0754187090903664 
+            xmax = 3.1386368802801305 
+            text = "u\:f" 
+        intervals [22]:
+            xmin = 3.1386368802801305 
+            xmax = 3.245894423269682 
+            text = "b" 
+        intervals [23]:
+            xmin = 3.245894423269682 
+            xmax = 3.2784923039821927 
+            text = "r" 
+        intervals [24]:
+            xmin = 3.2784923039821927 
+            xmax = 3.3489457881027804 
+            text = "\ic" 
+        intervals [25]:
+            xmin = 3.3489457881027804 
+            xmax = 3.442651687471597 
+            text = "\ng" 
+        intervals [26]:
+            xmin = 3.442651687471597 
+            xmax = 3.49908841079082 
+            text = "\dh" 
+        intervals [27]:
+            xmin = 3.49908841079082 
+            xmax = 3.556327664399094 
+            text = "i\:f" 
+        intervals [28]:
+            xmin = 3.556327664399094 
+            xmax = 3.6661615646258516 
+            text = "z" 
+        intervals [29]:
+            xmin = 3.6661615646258516 
+            xmax = 3.7694537927306633 
+            text = "\tf" 
+        intervals [30]:
+            xmin = 3.7694537927306633 
+            xmax = 3.8262371978427785 
+            text = "\ic" 
+        intervals [31]:
+            xmin = 3.8262371978427785 
+            xmax = 3.9203276643990934 
+            text = "\ng" 
+        intervals [32]:
+            xmin = 3.9203276643990934 
+            xmax = 4.052556144527606 
+            text = "z" 
+        intervals [33]:
+            xmin = 4.052556144527606 
+            xmax = 4.082467383593518 
+            text = "w" 
+        intervals [34]:
+            xmin = 4.082467383593518 
+            xmax = 4.115065264306028 
+            text = "\ic" 
+        intervals [35]:
+            xmin = 4.115065264306028 
+            xmax = 4.213910450982674 
+            text = "\dh" 
+        intervals [36]:
+            xmin = 4.213910450982674 
+            xmax = 4.254689566812829 
+            text = "h" 
+        intervals [37]:
+            xmin = 4.254689566812829 
+            xmax = 4.362998654341493 
+            text = "\er\:f" 
+        intervals [38]:
+            xmin = 4.362998654341493 
+            xmax = 4.502972513431295 
+            text = "f" 
+        intervals [39]:
+            xmin = 4.502972513431295 
+            xmax = 4.542931205917598 
+            text = "r" 
+        intervals [40]:
+            xmin = 4.542931205917598 
+            xmax = 4.593405343795034 
+            text = "\ab" 
+        intervals [41]:
+            xmin = 4.593405343795034 
+            xmax = 4.653343382524489 
+            text = "m" 
+        intervals [42]:
+            xmin = 4.653343382524489 
+            xmax = 4.694706050923017 
+            text = "\dh" 
+        intervals [43]:
+            xmin = 4.694706050923017 
+            xmax = 4.7472832778786795 
+            text = "\sw" 
+        intervals [44]:
+            xmin = 4.7472832778786795 
+            xmax = 4.845313790791688 
+            text = "s" 
+        intervals [45]:
+            xmin = 4.845313790791688 
+            xmax = 4.925933163720407 
+            text = "t" 
+        intervals [46]:
+            xmin = 4.925933163720407 
+            xmax = 5.062633953805129 
+            text = "\ct\:f" 
+        intervals [47]:
+            xmin = 5.062633953805129 
+            xmax = 5.496220155396476 
+            text = "" 
+        intervals [48]:
+            xmin = 5.496220155396476 
+            xmax = 5.628134230821609 
+            text = "s" 
+        intervals [49]:
+            xmin = 5.628134230821609 
+            xmax = 5.656046219465915 
+            text = "\ic" 
+        intervals [50]:
+            xmin = 5.656046219465915 
+            xmax = 5.73047818918406 
+            text = "k" 
+        intervals [51]:
+            xmin = 5.73047818918406 
+            xmax = 5.784170680976248 
+            text = "s" 
+        intervals [52]:
+            xmin = 5.784170680976248 
+            xmax = 5.847969512163231 
+            text = "s" 
+        intervals [53]:
+            xmin = 5.847969512163231 
+            xmax = 5.923567460317461 
+            text = "p" 
+        intervals [54]:
+            xmin = 5.923567460317461 
+            xmax = 6.008244644359772 
+            text = "u\:f" 
+        intervals [55]:
+            xmin = 6.008244644359772 
+            xmax = 6.07656746031746 
+            text = "n" 
+        intervals [56]:
+            xmin = 6.07656746031746 
+            xmax = 6.177799483820135 
+            text = "z" 
+        intervals [57]:
+            xmin = 6.177799483820135 
+            xmax = 6.238940030374327 
+            text = "\ab" 
+        intervals [58]:
+            xmin = 6.238940030374327 
+            xmax = 6.323365079365081 
+            text = "v" 
+        intervals [59]:
+            xmin = 6.323365079365081 
+            xmax = 6.409548468107435 
+            text = "f" 
+        intervals [60]:
+            xmin = 6.409548468107435 
+            xmax = 6.429485602853366 
+            text = "r" 
+        intervals [61]:
+            xmin = 6.429485602853366 
+            xmax = 6.513221568786281 
+            text = "\ef" 
+        intervals [62]:
+            xmin = 6.513221568786281 
+            xmax = 6.622932539682541 
+            text = "\sh" 
+        intervals [63]:
+            xmin = 6.622932539682541 
+            xmax = 6.7316791299096215 
+            text = "s" 
+        intervals [64]:
+            xmin = 6.7316791299096215 
+            xmax = 6.816744238158932 
+            text = "n" 
+        intervals [65]:
+            xmin = 6.816744238158932 
+            xmax = 6.948 
+            text = "\sw\hs" 
+        intervals [66]:
+            xmin = 6.948 
+            xmax = 7.079614583810636 
+            text = "p" 
+        intervals [67]:
+            xmin = 7.079614583810636 
+            xmax = 7.216516242399369 
+            text = "i\:f" 
+        intervals [68]:
+            xmin = 7.216516242399369 
+            xmax = 7.305054039405709 
+            text = "z" 
+        intervals [69]:
+            xmin = 7.305054039405709 
+            xmax = 7.672163265306121 
+            text = "" 
+        intervals [70]:
+            xmin = 7.672163265306121 
+            xmax = 7.714895691609978 
+            text = "f" 
+        intervals [71]:
+            xmin = 7.714895691609978 
+            xmax = 7.8306886624454 
+            text = "a\ic" 
+        intervals [72]:
+            xmin = 7.8306886624454 
+            xmax = 7.8641632653061215 
+            text = "v" 
+        intervals [73]:
+            xmin = 7.8641632653061215 
+            xmax = 7.992163265306122 
+            text = "" 
+        intervals [74]:
+            xmin = 7.992163265306122 
+            xmax = 8.018273992069147 
+            text = "\tf" 
+        intervals [75]:
+            xmin = 8.018273992069147 
+            xmax = 8.078978295194528 
+            text = "\ic" 
+        intervals [76]:
+            xmin = 8.078978295194528 
+            xmax = 8.15565741493185 
+            text = "k" 
+        intervals [77]:
+            xmin = 8.15565741493185 
+            xmax = 8.286650911149778 
+            text = "s" 
+        intervals [78]:
+            xmin = 8.286650911149778 
+            xmax = 8.3633300308871 
+            text = "l" 
+        intervals [79]:
+            xmin = 8.3633300308871 
+            xmax = 8.48793360046025 
+            text = "\ae" 
+        intervals [80]:
+            xmin = 8.48793360046025 
+            xmax = 8.569405165181156 
+            text = "b" 
+        intervals [81]:
+            xmin = 8.569405165181156 
+            xmax = 8.647264172335598 
+            text = "z" 
+        intervals [82]:
+            xmin = 8.647264172335598 
+            xmax = 8.706652924196854 
+            text = "\ab" 
+        intervals [83]:
+            xmin = 8.706652924196854 
+            xmax = 8.80111995129173 
+            text = "v" 
+        intervals [84]:
+            xmin = 8.80111995129173 
+            xmax = 8.922528557542492 
+            text = "b" 
+        intervals [85]:
+            xmin = 8.922528557542492 
+            xmax = 8.973647970700707 
+            text = "l" 
+        intervals [86]:
+            xmin = 8.973647970700707 
+            xmax = 9.06949687037236 
+            text = "u\:f" 
+        intervals [87]:
+            xmin = 9.06949687037236 
+            xmax = 9.222562358276642 
+            text = "\tS" 
+        intervals [88]:
+            xmin = 9.222562358276642 
+            xmax = 9.343917425271682 
+            text = "i\:f" 
+        intervals [89]:
+            xmin = 9.343917425271682 
+            xmax = 9.824681799554595 
+            text = "z" 
+        intervals [90]:
+            xmin = 9.824681799554595 
+            xmax = 9.891199690015197 
+            text = "\ae" 
+        intervals [91]:
+            xmin = 9.891199690015197 
+            xmax = 9.915146130581013 
+            text = "n" 
+        intervals [92]:
+            xmin = 9.915146130581013 
+            xmax = 9.93909257114683 
+            text = "d" 
+        intervals [93]:
+            xmin = 9.93909257114683 
+            xmax = 10.016599567277762 
+            text = "m" 
+        intervals [94]:
+            xmin = 10.016599567277762 
+            xmax = 10.088019142130568 
+            text = "e\ic" 
+        intervals [95]:
+            xmin = 10.088019142130568 
+            xmax = 10.158140179258778 
+            text = "b" 
+        intervals [96]:
+            xmin = 10.158140179258778 
+            xmax = 10.234534343939073 
+            text = "i\:f" 
+        intervals [97]:
+            xmin = 10.234534343939073 
+            xmax = 10.308965986394556 
+            text = "\sw" 
+        intervals [98]:
+            xmin = 10.308965986394556 
+            xmax = 10.46827113436644 
+            text = "s" 
+        intervals [99]:
+            xmin = 10.46827113436644 
+            xmax = 10.50463019065514 
+            text = "n" 
+        intervals [100]:
+            xmin = 10.50463019065514 
+            xmax = 10.629562358276642 
+            text = "\ae" 
+        intervals [101]:
+            xmin = 10.629562358276642 
+            xmax = 10.70297846581925 
+            text = "k" 
+        intervals [102]:
+            xmin = 10.70297846581925 
+            xmax = 10.852310304147846 
+            text = "f" 
+        intervals [103]:
+            xmin = 10.852310304147846 
+            xmax = 10.929764172335599 
+            text = "\ct\:f" 
+        intervals [104]:
+            xmin = 10.929764172335599 
+            xmax = 10.941230560357605 
+            text = "h" 
+        intervals [105]:
+            xmin = 10.941230560357605 
+            xmax = 11.028260820923467 
+            text = "\er\:f" 
+        intervals [106]:
+            xmin = 11.028260820923467 
+            xmax = 11.143860544217684 
+            text = "b" 
+        intervals [107]:
+            xmin = 11.143860544217684 
+            xmax = 11.180189734701255 
+            text = "r" 
+        intervals [108]:
+            xmin = 11.180189734701255 
+            xmax = 11.236026856858903 
+            text = "\vt" 
+        intervals [109]:
+            xmin = 11.236026856858903 
+            xmax = 11.304849356262515 
+            text = "\dh" 
+        intervals [110]:
+            xmin = 11.304849356262515 
+            xmax = 11.39185138381048 
+            text = "\sw" 
+        intervals [111]:
+            xmin = 11.39185138381048 
+            xmax = 11.548212709274505 
+            text = "b" 
+        intervals [112]:
+            xmin = 11.548212709274505 
+            xmax = 11.680663557183346 
+            text = "\ab" 
+        intervals [113]:
+            xmin = 11.680663557183346 
+            xmax = 11.73033329760276 
+            text = "b" 
+        intervals [114]:
+            xmin = 11.73033329760276 
+            xmax = 12.215113541947044 
+            text = "" 
+        intervals [115]:
+            xmin = 12.215113541947044 
+            xmax = 12.293025805422833 
+            text = "w" 
+        intervals [116]:
+            xmin = 12.293025805422833 
+            xmax = 12.403401512013533 
+            text = "i\:f" 
+        intervals [117]:
+            xmin = 12.403401512013533 
+            xmax = 12.512478680879637 
+            text = "\ct\:f" 
+        intervals [118]:
+            xmin = 12.512478680879637 
+            xmax = 12.578704104834056 
+            text = "l" 
+        intervals [119]:
+            xmin = 12.578704104834056 
+            xmax = 12.684425148853219 
+            text = "s" 
+        intervals [120]:
+            xmin = 12.684425148853219 
+            xmax = 12.748053497358447 
+            text = "\sw\hs" 
+        intervals [121]:
+            xmin = 12.748053497358447 
+            xmax = 12.824556097666996 
+            text = "n" 
+        intervals [122]:
+            xmin = 12.824556097666996 
+            xmax = 12.900521899463088 
+            text = "i\:f" 
+        intervals [123]:
+            xmin = 12.900521899463088 
+            xmax = 12.958562358276641 
+            text = "d" 
+        intervals [124]:
+            xmin = 12.958562358276641 
+            xmax = 13.028711451247162 
+            text = "\sw" 
+        intervals [125]:
+            xmin = 13.028711451247162 
+            xmax = 13.144427430616322 
+            text = "s" 
+        intervals [126]:
+            xmin = 13.144427430616322 
+            xmax = 13.206757241396954 
+            text = "m" 
+        intervals [127]:
+            xmin = 13.206757241396954 
+            xmax = 13.315834410263056 
+            text = "\ct\:f" 
+        intervals [128]:
+            xmin = 13.315834410263056 
+            xmax = 13.363880306073126 
+            text = "l" 
+        intervals [129]:
+            xmin = 13.363880306073126 
+            xmax = 13.451852874646539 
+            text = "p" 
+        intervals [130]:
+            xmin = 13.451852874646539 
+            xmax = 13.479122166863066 
+            text = "l" 
+        intervals [131]:
+            xmin = 13.479122166863066 
+            xmax = 13.555735892614258 
+            text = "\ae" 
+        intervals [132]:
+            xmin = 13.555735892614258 
+            xmax = 13.638842306988431 
+            text = "s" 
+        intervals [133]:
+            xmin = 13.638842306988431 
+            xmax = 13.741426787231553 
+            text = "t" 
+        intervals [134]:
+            xmin = 13.741426787231553 
+            xmax = 13.801159522562992 
+            text = "\ic" 
+        intervals [135]:
+            xmin = 13.801159522562992 
+            xmax = 13.931552783349485 
+            text = "k" 
+        intervals [136]:
+            xmin = 13.931552783349485 
+            xmax = 14.047987436050171 
+            text = "s" 
+        intervals [137]:
+            xmin = 14.047987436050171 
+            xmax = 14.087808362999661 
+            text = "n" 
+        intervals [138]:
+            xmin = 14.087808362999661 
+            xmax = 14.222856286357695 
+            text = "e\ic" 
+        intervals [139]:
+            xmin = 14.222856286357695 
+            xmax = 14.382034248341816 
+            text = "k" 
+        intervals [140]:
+            xmin = 14.382034248341816 
+            xmax = 14.45734943636841 
+            text = "\ae" 
+        intervals [141]:
+            xmin = 14.45734943636841 
+            xmax = 14.504096794453883 
+            text = "n" 
+        intervals [142]:
+            xmin = 14.504096794453883 
+            xmax = 14.528769011221216 
+            text = "d" 
+        intervals [143]:
+            xmin = 14.528769011221216 
+            xmax = 14.57216024445975 
+            text = "\sw" 
+        intervals [144]:
+            xmin = 14.57216024445975 
+            xmax = 14.679938875601257 
+            text = "b" 
+        intervals [145]:
+            xmin = 14.679938875601257 
+            xmax = 14.73447746003431 
+            text = "\ic" 
+        intervals [146]:
+            xmin = 14.73447746003431 
+            xmax = 14.768163265306121 
+            text = "\gs" 
+        intervals [147]:
+            xmin = 14.768163265306121 
+            xmax = 14.928163265306122 
+            text = "" 
+        intervals [148]:
+            xmin = 14.928163265306122 
+            xmax = 14.96176146405654 
+            text = "t" 
+        intervals [149]:
+            xmin = 14.96176146405654 
+            xmax = 15.166462585034013 
+            text = "\ct\ic" 
+        intervals [150]:
+            xmin = 15.166462585034013 
+            xmax = 15.304480212144968 
+            text = "f" 
+        intervals [151]:
+            xmin = 15.304480212144968 
+            xmax = 15.373088718857037 
+            text = "r" 
+        intervals [152]:
+            xmin = 15.373088718857037 
+            xmax = 15.49859208479375 
+            text = "\ab" 
+        intervals [153]:
+            xmin = 15.49859208479375 
+            xmax = 15.53616326530612 
+            text = "\gs" 
+        intervals [154]:
+            xmin = 15.53616326530612 
+            xmax = 15.66416326530612 
+            text = "" 
+        intervals [155]:
+            xmin = 15.66416326530612 
+            xmax = 15.717078336694362 
+            text = "f" 
+        intervals [156]:
+            xmin = 15.717078336694362 
+            xmax = 15.802865673828718 
+            text = "\ct\:f" 
+        intervals [157]:
+            xmin = 15.802865673828718 
+            xmax = 15.866535963108124 
+            text = "\dh" 
+        intervals [158]:
+            xmin = 15.866535963108124 
+            xmax = 15.904025973770885 
+            text = "\sw" 
+        intervals [159]:
+            xmin = 15.904025973770885 
+            xmax = 16.028921649052517 
+            text = "k" 
+        intervals [160]:
+            xmin = 16.028921649052517 
+            xmax = 16.07985788047604 
+            text = "\ic" 
+        intervals [161]:
+            xmin = 16.07985788047604 
+            xmax = 16.1796485260771 
+            text = "d" 
+        intervals [162]:
+            xmin = 16.1796485260771 
+            xmax = 16.336163265306123 
+            text = "z" 
+        intervals [163]:
+            xmin = 16.336163265306123 
+            xmax = 16.793099963641854 
+            text = "" 
+        intervals [164]:
+            xmin = 16.793099963641854 
+            xmax = 16.99605477869797 
+            text = "\sh" 
+        intervals [165]:
+            xmin = 16.99605477869797 
+            xmax = 17.060769841269842 
+            text = "i\:f" 
+        intervals [166]:
+            xmin = 17.060769841269842 
+            xmax = 17.175658269406963 
+            text = "k" 
+        intervals [167]:
+            xmin = 17.175658269406963 
+            xmax = 17.27637243577177 
+            text = "\ae" 
+        intervals [168]:
+            xmin = 17.27637243577177 
+            xmax = 17.352168404327855 
+            text = "n" 
+        intervals [169]:
+            xmin = 17.352168404327855 
+            xmax = 17.474101049396346 
+            text = "s" 
+        intervals [170]:
+            xmin = 17.474101049396346 
+            xmax = 17.546601541058692 
+            text = "k" 
+        intervals [171]:
+            xmin = 17.546601541058692 
+            xmax = 17.667056689342406 
+            text = "u\:f" 
+        intervals [172]:
+            xmin = 17.667056689342406 
+            xmax = 17.757140635501102 
+            text = "p" 
+        intervals [173]:
+            xmin = 17.757140635501102 
+            xmax = 17.80986826580099 
+            text = "\dh" 
+        intervals [174]:
+            xmin = 17.80986826580099 
+            xmax = 17.898846141932047 
+            text = "i\:f" 
+        intervals [175]:
+            xmin = 17.898846141932047 
+            xmax = 17.97326984126984 
+            text = "z" 
+        intervals [176]:
+            xmin = 17.97326984126984 
+            xmax = 18.083056689342403 
+            text = "\tf" 
+        intervals [177]:
+            xmin = 18.083056689342403 
+            xmax = 18.183641487429192 
+            text = "\ic" 
+        intervals [178]:
+            xmin = 18.183641487429192 
+            xmax = 18.28085805579461 
+            text = "\ng" 
+        intervals [179]:
+            xmin = 18.28085805579461 
+            xmax = 18.393769841269844 
+            text = "z" 
+        intervals [180]:
+            xmin = 18.393769841269844 
+            xmax = 18.496181657435443 
+            text = "\ic" 
+        intervals [181]:
+            xmin = 18.496181657435443 
+            xmax = 18.5820566893424 
+            text = "n" 
+        intervals [182]:
+            xmin = 18.5820566893424 
+            xmax = 18.621056689342403 
+            text = "t" 
+        intervals [183]:
+            xmin = 18.621056689342403 
+            xmax = 18.70026984126984 
+            text = "\hs" 
+        intervals [184]:
+            xmin = 18.70026984126984 
+            xmax = 18.790755412668293 
+            text = "\tf" 
+        intervals [185]:
+            xmin = 18.790755412668293 
+            xmax = 18.825357920052593 
+            text = "r" 
+        intervals [186]:
+            xmin = 18.825357920052593 
+            xmax = 19.000923080353555 
+            text = "i\:f" 
+        intervals [187]:
+            xmin = 19.000923080353555 
+            xmax = 19.08331000269713 
+            text = "r" 
+        intervals [188]:
+            xmin = 19.08331000269713 
+            xmax = 19.18711752485003 
+            text = "\ef" 
+        intervals [189]:
+            xmin = 19.18711752485003 
+            xmax = 19.241492893596792 
+            text = "d" 
+        intervals [190]:
+            xmin = 19.241492893596792 
+            xmax = 19.355294867376454 
+            text = "b" 
+        intervals [191]:
+            xmin = 19.355294867376454 
+            xmax = 19.467341081763717 
+            text = "\ae" 
+        intervals [192]:
+            xmin = 19.467341081763717 
+            xmax = 19.513477758276117 
+            text = "\gs" 
+        intervals [193]:
+            xmin = 19.513477758276117 
+            xmax = 19.644341261896585 
+            text = "z" 
+        intervals [194]:
+            xmin = 19.644341261896585 
+            xmax = 19.777808076093176 
+            text = "\ae" 
+        intervals [195]:
+            xmin = 19.777808076093176 
+            xmax = 19.80255198844921 
+            text = "n" 
+        intervals [196]:
+            xmin = 19.80255198844921 
+            xmax = 19.82776984126984 
+            text = "d" 
+        intervals [197]:
+            xmin = 19.82776984126984 
+            xmax = 19.91621810563038 
+            text = "w" 
+        intervals [198]:
+            xmin = 19.91621810563038 
+            xmax = 19.99426984126984 
+            text = "i\:f" 
+        intervals [199]:
+            xmin = 19.99426984126984 
+            xmax = 20.051599387361563 
+            text = "w" 
+        intervals [200]:
+            xmin = 20.051599387361563 
+            xmax = 20.10597475610832 
+            text = "\ic" 
+        intervals [201]:
+            xmin = 20.10597475610832 
+            xmax = 20.173532032430053 
+            text = "l" 
+        intervals [202]:
+            xmin = 20.173532032430053 
+            xmax = 20.2460325240924 
+            text = "\gs" 
+        intervals [203]:
+            xmin = 20.2460325240924 
+            xmax = 20.379269841269842 
+            text = "\sw\hs" 
+        intervals [204]:
+            xmin = 20.379269841269842 
+            xmax = 20.467056689342403 
+            text = "m" 
+        intervals [205]:
+            xmin = 20.467056689342403 
+            xmax = 20.5443271934489 
+            text = "i\:f" 
+        intervals [206]:
+            xmin = 20.5443271934489 
+            xmax = 20.631769841269843 
+            text = "t" 
+        intervals [207]:
+            xmin = 20.631769841269843 
+            xmax = 20.716384158241166 
+            text = "h" 
+        intervals [208]:
+            xmin = 20.716384158241166 
+            xmax = 20.788450113378683 
+            text = "\er\:f" 
+        intervals [209]:
+            xmin = 20.788450113378683 
+            xmax = 20.888866560263335 
+            text = "w" 
+        intervals [210]:
+            xmin = 20.888866560263335 
+            xmax = 20.939946452116352 
+            text = "\ef" 
+        intervals [211]:
+            xmin = 20.939946452116352 
+            xmax = 21.0585836202911 
+            text = "n" 
+        intervals [212]:
+            xmin = 21.0585836202911 
+            xmax = 21.155800188656517 
+            text = "z" 
+        intervals [213]:
+            xmin = 21.155800188656517 
+            xmax = 21.220061988084503 
+            text = "d" 
+        intervals [214]:
+            xmin = 21.220061988084503 
+            xmax = 21.368358448302935 
+            text = "e\ic" 
+        intervals [215]:
+            xmin = 21.368358448302935 
+            xmax = 21.62416326530612 
+            text = "" 
+        intervals [216]:
+            xmin = 21.62416326530612 
+            xmax = 21.685038866698303 
+            text = "\ae" 
+        intervals [217]:
+            xmin = 21.685038866698303 
+            xmax = 21.73821541950113 
+            text = "t" 
+        intervals [218]:
+            xmin = 21.73821541950113 
+            xmax = 21.763864251245842 
+            text = "\dh" 
+        intervals [219]:
+            xmin = 21.763864251245842 
+            xmax = 21.791344660537646 
+            text = "\sw" 
+        intervals [220]:
+            xmin = 21.791344660537646 
+            xmax = 21.912218690631494 
+            text = "" 
+        intervals [221]:
+            xmin = 21.912218690631494 
+            xmax = 21.93521541950113 
+            text = "t" 
+        intervals [222]:
+            xmin = 21.93521541950113 
+            xmax = 21.959715020269112 
+            text = "r" 
+        intervals [223]:
+            xmin = 21.959715020269112 
+            xmax = 22.049883769223616 
+            text = "e\ic" 
+        intervals [224]:
+            xmin = 22.049883769223616 
+            xmax = 22.115215419501133 
+            text = "n" 
+        intervals [225]:
+            xmin = 22.115215419501133 
+            xmax = 22.17158721274761 
+            text = "s" 
+        intervals [226]:
+            xmin = 22.17158721274761 
+            xmax = 22.269106674932104 
+            text = "t" 
+        intervals [227]:
+            xmin = 22.269106674932104 
+            xmax = 22.34511974268619 
+            text = "e\ic" 
+        intervals [228]:
+            xmin = 22.34511974268619 
+            xmax = 22.467631629852637 
+            text = "\sh" 
+        intervals [229]:
+            xmin = 22.467631629852637 
+            xmax = 22.48331315140994 
+            text = "\sw" 
+        intervals [230]:
+            xmin = 22.48331315140994 
+            xmax = 22.492150579630295 
+            text = "n" 
+        intervals [231]:
+            xmin = 22.492150579630295 
+            xmax = 24.816326530612244 
+            text = "" 
