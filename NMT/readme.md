@@ -29,6 +29,9 @@ discussion </br>
 conclusion </br>
 acknowledgement: be explicit about how you split the work, say who did what</br>
 
+**Examples of reproductibilty papers in LREC2016 Proceedings**
+[Branco, António, Nicoletta Calzolari and Khalid Choukri (eds.), 2016, Proceedings of the Workshop on Research Results Reproducibility and Resources Citation in Science and Technology of Language](http://4real.di.fc.ul.pt/wp-content/uploads/2016/04/4REALWorkshopProceedings.pdf)
+
 ### DEADLINE: dimanche 22 mars 23h59
 nicolas.ballier 'AT' u-paris.fr
 
