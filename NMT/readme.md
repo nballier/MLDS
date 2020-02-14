@@ -16,7 +16,7 @@ An assignment on Neural Machine Translation
 REPROLANG and reproducibility </br>
 
 Assignment : a replication study  </br>
-deliverables:
+deliverables: </br>
 1- the docker with the system and the code </br>
 2- A two-page paper summarizing your work: </br>
 
