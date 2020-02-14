@@ -23,6 +23,8 @@ deliverables: </br>
 ### EXPECTED OUTLINE OF YOUR PAPER  </br>
 state of the art (just summarise the original paper section )</br>
 summary of the original study </br>
+data processing </br>
+(Describe the dataset used in the paper. For French what would you need to do to run the data? Detail the annotation (Pos-tagging with Treetagger, parsing with StanfordCoreNLP??).</br>
 results </br>
 issues </br>
 discussion </br>
