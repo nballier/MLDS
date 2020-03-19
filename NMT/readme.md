@@ -61,8 +61,13 @@ Apply ACL Stylesheets  and [templates (Latex, Word)  available here](http://acl2
 
 THERE WILL BE NO DEADLINE EXTENSION
 
-Upload your  PDF file on Moodle, send the the instructions for your Docker:
-https://moodlesupd.script.univ-paris-diderot.fr/mod/assign/view.php?id=226796
+
+Send me your PDF files to nicolas.ballier AT u-paris.fr , our two moodle are not yet compatible.
+Do not forget to include your Docker instructions. If you need to resort to a virtial machine (like Vagrant), send me a link to a transfer solution. 
+
+If your system does not work, document the programming limitations, the conflicting libraries or any problems you faced. if you began recoding explain wat went wrong and what functions you could not translate. If you're running out of time to train the data, try to train 1/10 of the data and document the required time. The analogy is that for a company you would document the extra time/budget you would need to finish the project. 
+
+
 
 
 
