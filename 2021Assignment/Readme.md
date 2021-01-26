@@ -22,7 +22,7 @@ Vajjala, Sowmya, and Taraka Rama. 2018. “Experiments with Universal CEFR class
 <https://github.com/nishkalavallabhi/UniversalCEFRScoring>
 
 ## Task D.3: Neural machine translation
-Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags”. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), pp. 67–73.
+Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags”. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), pp. 67–73. \
 <http://aclweb.org/anthology/P18-3010>
 
 
