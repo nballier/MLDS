@@ -18,7 +18,7 @@ Your assignment must respect the requirements of a research paper (introduction,
 
 ## Task D.2: Language proficiency scoring
 Vajjala, Sowmya, and Taraka Rama. 2018. “Experiments with Universal CEFR classifications”. In Proceedings of Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, pp. 147–153.
-<http://aclweb.org/anthology/W18-0515> \\
+<http://aclweb.org/anthology/W18-0515>  \
 <https://github.com/nishkalavallabhi/UniversalCEFRScoring>
 
 ## Task D.3: Neural machine translation
