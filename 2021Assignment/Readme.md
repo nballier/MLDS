@@ -8,6 +8,9 @@ Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
 
 
 ## Deadline = Feb 28th midnight
+Assignment : a replication study 
+1- the docker with the system and the code
+2- A two-page paper summarizing your work:
 
 ## Requirements
 Your data and code should be encapsulated in a docker: \
@@ -15,6 +18,15 @@ Your data and code should be encapsulated in a docker: \
 
 Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section), following a given paper template \
 <https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/> .   
+SUGGESTED OUTLINE
+state of the art
+summary of the replicated study
+results
+issues
+discussion
+conclusion
+acknowledgement: be explicit about how you split the work between members of the team 
+
 
 
 ## Task D.2: Language proficiency scoring
@@ -27,10 +39,18 @@ Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation 
 <http://aclweb.org/anthology/P18-3010>
 
 
-# Replicating two other papers in relation to Neural Translations
+# Replicating a paper in relation to Neural Translation
+
+##  Evaluating Gender Bias in Machine Translation Gabriel Stanovsky, Noah A. Smith, and Luke Zettlemoyer, (ACL 2019) \
+paper: <https://arxiv.org/abs/1906.00591> \
+github:  <https://github.com/gabrielStanovsky/mt_gender> \
+
+Reproducibles: Table 2 and 3 and Figure 2 using DeepL \
+
 
 ## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709. \
 <https://arxiv.org/abs/1511.06709>
+
 
 ## Vig, J. (2019). A multiscale visualization of attention in the transformer model. \  
 <https://arxiv.org/abs/1906.05714>
