@@ -46,6 +46,7 @@ paper: <https://arxiv.org/abs/1906.00591> \
 github:  <https://github.com/gabrielStanovsky/mt_gender> \
 
 Reproducibles: Table 2 and 3 and Figure 2 using DeepL \
+<https://pypi.org/project/deep-translator/> 
 
 
 ## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709. \
