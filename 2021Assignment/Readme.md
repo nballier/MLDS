@@ -2,7 +2,7 @@
 
 
 Some of the tasks are taken from the REPROLANG 2020 workshop: Shared Task on the Reproduction of Research Results in Science and Technology of Language
-Collocated with LREC 2020 12th Language Resources and Evaluation Conference.
+Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
 <https://lrec2020.lrec-conf.org/en/reprolang2020/>
 
 
@@ -10,10 +10,11 @@ Collocated with LREC 2020 12th Language Resources and Evaluation Conference.
 ## Deadline = Feb 28th midnight
 
 ## Requirements
-Your data and code should be encapsulated in a docker:
+Your data and code should be encapsulated in a docker: \
 <https://lrec2020.lrec-conf.org/en/reprolang2020/submission/>
 
-Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section), following a given paper template <https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/> .   
+Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section), following a given paper template \
+<https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/> .   
 
 
 ## Task D.2: Language proficiency scoring
@@ -28,10 +29,10 @@ Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation 
 
 # Replicating two other papers in relation to Neural Translations
 
-## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709.
+## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709. \
 <https://arxiv.org/abs/1511.06709>
 
-## Vig, J. (2019). A multiscale visualization of attention in the transformer model. arXiv preprint 
+## Vig, J. (2019). A multiscale visualization of attention in the transformer model. \  
 <https://arxiv.org/abs/1906.05714>
 
 
