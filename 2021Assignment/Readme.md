@@ -18,14 +18,14 @@ Your data and code should be encapsulated in a docker: \
 
 Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section), following a given paper template \
 <https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/> .   
-SUGGESTED OUTLINE
-state of the art
-summary of the replicated study
-results
-issues
-discussion
-conclusion
-acknowledgement: be explicit about how you split the work between members of the team 
+**SUGGESTED OUTLINE** \
+state of the art \
+summary of the replicated study  \
+results  \
+issues \
+discussion  \
+conclusion  \
+acknowledgement: be explicit about how you split the work between members of the team  \
 
 
 
@@ -77,6 +77,17 @@ Réplication des visualisations des matrices d'attention pour les données angla
 
 
 
+## MARKING SCHEME /20 \
+# paper /12 \
+clarity \
+understanding pf the research question \ 
+explicitness (explain why you can't get the results/ find different results) \
+precision of results \
+
+
+# code / 8
+executable docker \
+quality of comments \
 
 
 
