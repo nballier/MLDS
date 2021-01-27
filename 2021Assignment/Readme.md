@@ -25,7 +25,7 @@ results  \
 issues \
 discussion  \
 conclusion  \
-acknowledgement: be explicit about how you split the work between members of the team  \
+acknowledgement: be explicit about how you split the work between members of the team  <br/>
 
 
 
