@@ -77,7 +77,7 @@ Réplication des visualisations des matrices d'attention pour les données angla
 
 
 ## MARKING SCHEME /20 
-# paper /12  \
+# paper /12  
 clarity  \
 understanding of the research question  <br/>
 explicitness (explain why you can't get the results or find different results)  <br/>
