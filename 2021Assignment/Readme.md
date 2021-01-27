@@ -4,6 +4,8 @@
 Some of the tasks are taken from the REPROLANG 2020 workshop: Shared Task on the Reproduction of Research Results in Science and Technology of Language
 Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
 <https://lrec2020.lrec-conf.org/en/reprolang2020/>
+"Participants are expected to obtain the data and tools for the reproduction from the information provided in the paper. Using the description of the experiment is part of the reproduction exercise."
+ 
 
 
 
