@@ -67,7 +67,6 @@ Réplication des visualisations des matrices d'attention pour les données angla
 <https://github.com/gabrielStanovsky/mt_gender/blob/master/data/aggregates/en_pro.txt>
 
 
-
 ## References
 ### Useful pointers from previous editions of the reprolang workshop: 
 <http://4real.di.fc.ul.pt/> 4REAL Workshop : Workshop on Research Results Reproducibility and Resources Citation in Science and Technology of Language
@@ -77,11 +76,11 @@ Réplication des visualisations des matrices d'attention pour les données angla
 
 
 
-## MARKING SCHEME /20 \
-# paper /12 \
+## MARKING SCHEME /20 
+# paper /12  \
 clarity \
-understanding pf the research question \ 
-explicitness (explain why you can't get the results/ find different results) \
+understanding of the research question \ 
+explicitness (explain why you can't get the results or find different results) \
 precision of results \
 
 
