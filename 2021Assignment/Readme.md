@@ -33,10 +33,13 @@ acknowledgement: be explicit about how you split the work between members of the
 Vajjala, Sowmya, and Taraka Rama. 2018. “Experiments with Universal CEFR classifications”. In Proceedings of Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, pp. 147–153.
 <http://aclweb.org/anthology/W18-0515>  \
 <https://github.com/nishkalavallabhi/UniversalCEFRScoring>
+Major reproduction comparables: f-score values (tables 2, 3 and 4).
+
 
 ## Task D.3: Neural machine translation
 Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags”. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), pp. 67–73. \
 <http://aclweb.org/anthology/P18-3010>
+Major reproduction comparables: BLEU scores (tables 1 and 2; plots in figures 2, 3 and 4).
 
 
 # Replicating a paper in relation to Neural Translation
