@@ -10,7 +10,7 @@ Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
 ## Deadline = Feb 28th midnight
 Assignment : a replication study \
 1- the docker with the system and the code \
-2- A two-page paper summarizing your work. \ 
+2- A two-page paper summarizing your work. 
 
 ## Requirements
 Your data and code should be encapsulated in a docker: \
@@ -78,10 +78,10 @@ Réplication des visualisations des matrices d'attention pour les données angla
 
 ## MARKING SCHEME /20 
 # paper /12  \
-clarity \
-understanding of the research question \ 
-explicitness (explain why you can't get the results or find different results) \
-precision of results \
+clarity  \
+understanding of the research question  \ 
+explicitness (explain why you can't get the results or find different results)  \
+precision of results  \
 
 
 # code / 8
