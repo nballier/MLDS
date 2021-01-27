@@ -8,7 +8,6 @@ Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
  
 
 
-
 ## Deadline = Feb 28th midnight
 Assignment : a replication study \
 1- the docker with the system and the code \
@@ -28,7 +27,7 @@ issues \
 discussion  \
 conclusion  \
 acknowledgement: be explicit about how you split the work between members of the team  <br/>
-
+Reference section <br/>
 
 
 ## Task D.2: Language proficiency scoring
