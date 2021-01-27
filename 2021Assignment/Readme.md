@@ -54,7 +54,11 @@ Reproducibles: Table 2 and 3 and Figure 2 using DeepL \
 
 
 ## Vig, J. (2019). A multiscale visualization of attention in the transformer model. \  
-<https://arxiv.org/abs/1906.05714>
+<https://arxiv.org/abs/1906.05714> \
+<https://colab.research.google.com/drive/1YoJqS9cPGu3HL2_XExw3kCsRBtySQS2v?usp=sharing#scrollTo=nT4T5bdEt54v>
+Réplication des visualisations des matrices d'attention pour les données anglaises de 
+<https://github.com/gabrielStanovsky/mt_gender/blob/master/data/aggregates/en_pro.txt>
+
 
 
 ## References
