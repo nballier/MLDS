@@ -49,6 +49,13 @@ Reproducibles: Table 2 and 3 and Figure 2 using DeepL \
 <https://pypi.org/project/deep-translator/> 
 
 
+## Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem (ACL 2020) 
+paper : <https://arxiv.org/abs/2004.04498>
+Reproducibles : Table 2 for English/ French with Deepl and Google Translate
+<https://pypi.org/project/deep-translator/> \
+<https://github.com/DCSaunders/gender-debias>  
+
+
 ## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709. \
 <https://arxiv.org/abs/1511.06709>
 
