@@ -41,7 +41,7 @@ Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation 
 
 # Replicating a paper in relation to Neural Translation
 
-##  Evaluating Gender Bias in Machine Translation Gabriel Stanovsky, Noah A. Smith, and Luke Zettlemoyer, (ACL 2019) \
+##  Evaluating Gender Bias in Machine Translation Gabriel Stanovsky, Noah A. Smith, and Luke Zettlemoyer, (ACL 2019) 
 paper: <https://arxiv.org/abs/1906.00591> \
 github:  <https://github.com/gabrielStanovsky/mt_gender> \
 
@@ -86,7 +86,7 @@ precision of results
 
 # code / 8
 executable docker \
-quality of comments \
+quality of comments 
 
 
 
