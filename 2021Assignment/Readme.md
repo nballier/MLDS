@@ -56,15 +56,17 @@ Reproducibles : Table 2 for English/ French with Deepl and Google Translate
 <https://github.com/DCSaunders/gender-debias>  
 
 
-## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709. \
+## Rico Sennrich, Barry Haddow, and Alexandra Birch. 2015. Improving neural machine translation models with monolingual data. arXiv preprint arXiv:1511.06709. 
 <https://arxiv.org/abs/1511.06709>
 
 
-## Vig, J. (2019). A multiscale visualization of attention in the transformer model. \  
-<https://arxiv.org/abs/1906.05714> \
-<https://colab.research.google.com/drive/1YoJqS9cPGu3HL2_XExw3kCsRBtySQS2v?usp=sharing#scrollTo=nT4T5bdEt54v>
+## Vig, J. (2019). A multiscale visualization of attention in the transformer model.  
+<https://arxiv.org/abs/1906.05714>  <br/>
+<https://colab.research.google.com/drive/1YoJqS9cPGu3HL2_XExw3kCsRBtySQS2v?usp=sharing#scrollTo=nT4T5bdEt54v> <br/>
 Réplication des visualisations des matrices d'attention pour les données anglaises de 
 <https://github.com/gabrielStanovsky/mt_gender/blob/master/data/aggregates/en_pro.txt>
+Observe-t-on des liens particuliers entre le pronom et son antécédent? <br/>
+Pour quelle couche de neurones cela semble-t-il le plus flagrant? 
 
 
 ## References
