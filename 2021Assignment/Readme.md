@@ -88,6 +88,8 @@ clarity  \
 understanding of the research question  <br/>
 explicitness (explain why you can't get the results or find different results)  <br/>
 precision of results  
+bibliographical conventions
+respect of the original template 
 
 
 # code / 8
