@@ -8,10 +8,11 @@ Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
  
 
 
-## Deadline = Feb 28th midnight
+## Deadline = March 7th midnight
 Assignment : a replication study \
-1- the docker with the system and the code \
-2- A two-page paper summarizing your work. 
+1- the docker with the system (if required, eg D.3) and the code  or executable code 'as is' on github \
+2- A two-page paper summarizing your work (take more space if needed, 4 pages max). 
+
 
 ## Requirements
 Your data and code should be encapsulated in a docker: \
@@ -32,10 +33,10 @@ Reference section <br/>
 
 ## Task D.2: Language proficiency scoring
 Vajjala, Sowmya, and Taraka Rama. 2018. “Experiments with Universal CEFR classifications”. In Proceedings of Thirteenth Workshop on Innovative Use of NLP for Building Educational Applications, pp. 147–153.
-<http://aclweb.org/anthology/W18-0515>  \
-<https://github.com/nishkalavallabhi/UniversalCEFRScoring>
+paper: <http://aclweb.org/anthology/W18-0515>  \
+code:  <https://github.com/nishkalavallabhi/UniversalCEFRScoring>
+data : <https://zenodo.org/record/1218081>
 Major reproduction comparables: f-score values (tables 2, 3 and 4).
-
 
 ## Task D.3: Neural machine translation
 Vanmassenhove, Eva, and Andy Way. 2018. “SuperNMT: Neural Machine Translation with Semantic Supersenses and Syntactic Supertags”. In Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), pp. 67–73. \
@@ -49,13 +50,13 @@ Major reproduction comparables: BLEU scores (tables 1 and 2; plots in figures 2,
 paper: <https://arxiv.org/abs/1906.00591> \
 github:  <https://github.com/gabrielStanovsky/mt_gender> \
 
-Reproducibles: Table 2 and 3 and Figure 2 using DeepL \
+Major reproduction comparables: Table 2 and 3 and Figure 2 using DeepL \
 <https://pypi.org/project/deep-translator/> 
 
 
 ## Reducing Gender Bias in Neural Machine Translation as a Domain Adaptation Problem (ACL 2020) 
 paper : <https://arxiv.org/abs/2004.04498>
-Reproducibles : Table 2 for English/ French with Deepl and Google Translate
+Major reproduction comparables : Table 2 for English/ French with Deepl and Google Translate
 <https://pypi.org/project/deep-translator/> \
 <https://github.com/DCSaunders/gender-debias>  
 
@@ -81,12 +82,11 @@ Pour quelle couche de neurones cela semble-t-il le plus flagrant?
 <https://lrec2020.lrec-conf.org/en/reprolang2020/reprolang-accepted-papers/>
 
 
-
 ## MARKING SCHEME /20 
 # paper /12  
 clarity  \
 understanding of the research question  <br/>
-explicitness (explain why you can't get the results or find different results)  <br/>
+explicitness (explain why you can't get results or find different results)  <br/>
 precision of results  
 bibliographical conventions <br/>
 respect of the original template 
