@@ -1,20 +1,20 @@
 # BACKGROUND ON ANNOTATION AND METRICS
 
 
-##BACKGROUND FOR Vajjala et al.
+## BACKGROUND FOR Vajjala et al.
 
 
 
-###POS-tagging > Constituency parsing > dependency parsing
+### POS-tagging > Constituency parsing > dependency parsing
 <https://corenlp.run/>
 
-###CoNLL-X format : 
+### CoNLL-X format : 
 Conference on Computational Natural Language Learning (CoNLL)
 
-###CoNLL-U format: 
+### CoNLL-U format: 
 <https://universaldependencies.org/format.html>
 
-###UD-based analysis
+### UD-based analysis
 <http://ufal.mff.cuni.cz/udpipe>
 
 ### Universal dependencies 
@@ -27,6 +27,7 @@ Conference on Computational Natural Language Learning (CoNLL)
 <https://github.com/UniversalDependencies/docs/blob/pages-source/_en/introduction.md>
 
 ### Training your own model (Twitter data??)
+<https://github.com/UniversalDependencies/UD_English-EWT>
 
 ### Applying UD to (learners of) Italian 
 <https://github.com/nishkalavallabhi/UniversalCEFRScoring/blob/master/Datasets/IT-Parsed/1325_1001008_IT_B1.txt.parsed.txt>
