@@ -19,8 +19,9 @@ Your data and code should be encapsulated in a docker: \
 <https://lrec2020.lrec-conf.org/en/reprolang2020/submission/>
 
 Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section), following a given paper template \
-<https://lrec2020.lrec-conf.org/en/submission2020/authors-kit/> .   
+<https://lrec2020.lrec-conf.org/media/filer_public/ee/40/ee40e941-414a-4ba4-8e42-5a83b671d2fe/lrec2020_latex-template.zip> .   
 **SUGGESTED OUTLINE** \
+introduction \
 state of the art \
 summary of the replicated study  \
 results  \
