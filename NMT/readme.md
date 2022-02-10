@@ -34,27 +34,6 @@ acknowledgement: be explicit about how you split the work, say who did what</br>
 **Examples of reproductibilty papers in LREC2016 Proceedings**
 [Branco, António, Nicoletta Calzolari and Khalid Choukri (eds.), 2016, *Proceedings of the Workshop on Research Results Reproducibility and Resources Citation in Science and Technology of Language*](http://4real.di.fc.ul.pt/wp-content/uploads/2016/04/4REALWorkshopProceedings.pdf)
 
-### DEADLINE: dimanche 22 mars 23h59
-nicolas.ballier 'AT' u-paris.fr
-
-# HELPDESK jeudi 19 mars 2020 14h
-
-Sujet : MLDS NLP : traduction neuronale 1 
-Heure : 19 mars 2020 02:00 PM Paris
-Participer à la réunion Zoom
-https://us04web.zoom.us/j/476242440
-ID de réunion : 476 242 440
-
-
-L'application se charge pour la première utilisation si vous ne l'avez pas déjà.
-
-Sujet : MLDS NLP : traduction neuronale 2 
-Heure : 19 mars 2020 02:30 PM Paris
-Participer à la réunion Zoom
-https://us04web.zoom.us/j/141300809
-ID de réunion : 141 300 809
-
-
 
 ### EXPECTED FORMAT OF THE PAPER <br>
 Apply ACL Stylesheets  and [templates (Latex, Word)  available here](http://acl2020.org/downloads/acl2020-templates.zip)
