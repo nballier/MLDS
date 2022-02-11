@@ -78,6 +78,19 @@ Réplication des visualisations des matrices d'attention pour les données angla
 Observe-t-on des liens particuliers entre le pronom et son antécédent? <br/>
 Pour quelle couche de neurones cela semble-t-il le plus flagrant? 
 
+Vous chercherez à analyser les effets  des distracteurs, notamment dans le cas des relatives, pour des schémas de Wingrad  (cherchez d'autres exemples avec 'Winograd scheme challenge')  analysez les visualisations pour: <br/>
+The city councilmen refused the demonstrators a permit because they [feared/advocated] violence.  <br/>
+The choices of "feared" and "advocated" turn the schema into its two instances: <br/>
+The city councilmen refused the demonstrators a permit because they feared violence. <br/>
+The city councilmen refused the demonstrators a permit because they advocated violence. <br/> 
+
+Analysez la référence du they avec la présence de distracteur:
+The city councilmen refused the demonstrators who came with their trucks  a permit because they advocated violence. 
+The city councilmen refused the demonstrators who came with their children  a permit because they advocated violence. 
+
+
+
+
 
 ## References
 ### Useful pointers from previous editions of the reprolang workshop: 
