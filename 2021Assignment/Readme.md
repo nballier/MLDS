@@ -15,11 +15,14 @@ Assignment : a replication study \
 
 
 ## Requirements
-Your data and code should be encapsulated in a docker: \
+Your data and code should be encapsulated in a docker: see examples of similar requirements \
 <https://lrec2020.lrec-conf.org/en/reprolang2020/submission/>
 
-Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section), following a given paper template \
-<https://lrec2020.lrec-conf.org/media/filer_public/ee/40/ee40e941-414a-4ba4-8e42-5a83b671d2fe/lrec2020_latex-template.zip> .   
+Your assignment must respect the requirements of a research paper (introduction, state of the art, presentation of your results, discussion and a reference section with the proper format), following a given paper template \
+<https://lrec2022.lrec-conf.org/media/filer_public/16/8e/168e56e8-fb15-4213-bfbb-9e64de6b0bc9/lrec_2022_latex_template.zip>.
+(LaTeX preferred, otherwise use Open Office or Word tempate <https://lrec2022.lrec-conf.org/media/filer_public/e0/7e/e07e434e-6ef0-4de7-86eb-93b28989f4c1/lrec_2022_word_template.dotx>.
+
+
 **SUGGESTED OUTLINE** \
 introduction \
 state of the art \
@@ -30,6 +33,7 @@ discussion  \
 conclusion  \
 acknowledgement: be explicit about how you split the work between members of the team  <br/>
 Reference section <br/>
+(Make sure you follow the recommended format for the bibliography).
 
 
 ## Task D.2: Language proficiency scoring
@@ -96,10 +100,4 @@ respect of the original template
 # code / 8
 executable docker \
 quality of comments 
-
-
-
-
-
-
 
