@@ -1,4 +1,4 @@
-# 2021 ASSIGNMENTS
+# 2022 ASSIGNMENTS
 
 
 Some of the tasks are taken from the REPROLANG 2020 workshop: Shared Task on the Reproduction of Research Results in Science and Technology of Language
@@ -8,7 +8,7 @@ Collocated with LREC 2020 12th Language Resources and Evaluation Conference. \
  
 
 
-## Deadline = March 7th midnight
+## Deadline = March 7th midnight (2022)
 Assignment : a replication study \
 1- the docker with the system (if required, eg D.3) and the code  or executable code 'as is' on github \
 2- A two-page paper summarizing your work (take more space if needed, 4 pages max). 
