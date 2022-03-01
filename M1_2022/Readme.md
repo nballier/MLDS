@@ -1,6 +1,8 @@
 
 
-1 mars 9h-12h30 14h-17h30 \\
+1 mars 9h-12h30 14h-17h30  \\
+
+
 22 mars  9h-12h30 14h-17h30
 
 Les taggers probabilistes sont capables d'apprendre à prédire la catégorie morpho-syntaxique des mots, à partir de corpus d'entraînements. Plusieurs types d'annotations linguistiques sont possibles et plusieurs jeux d'étiquette (tagsets) ont été proposés pour des langues bien décrites comme l'anglais. Pour l'anglais, les jeux d'étiquettes implémentés confèrent des statuts différents aux réalisations possibles de that (Ballier et al, submitted). On s'intéressera ici à la distinction entre that relatif (The man that I saw) et le that des complétives nominales (the fact that I saw a man)  qui n'est distinguée que dans la version 8 de la CLAWS.
@@ -9,8 +11,10 @@ Les taggers probabilistes sont capables d'apprendre à prédire la catégorie mo
 FRAMAPAD:
 https://mypads2.framapad.org/mypads/?/mypads/group/mlds-1l2yes9bc/pad/view/mlds1-om1v190x
 
-exposés:
 
+Présentation générale du NLP
+
+exposés:
 - jeux d'étiquettes pour l'anglais et rappels sur l'annotation
 
 CLAWS 5
@@ -26,12 +30,14 @@ Santorini, B. 1990. Part-of-speech tagging guidelines for the Penn Treebank Proj
 
 - complétives nominales et relatives: différences structurelles et recherche de features
 
+
 - l'annotation et la réannotation avec Treetagger
 
-Treetagger
+**Treetagger
 https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
-22 mars
+
+**22 mars**
 
 Le parsing : CoreNLP, cleanNLP: l'annotation de la syntaxe par constituants (et l'analyse en dépendances)
 (CoreNLP)
@@ -44,12 +50,11 @@ Manning, Christopher D., Mihai Surdeanu, John Bauer, Jenny Finkel, Steven J. Bet
 
 coreNLP -> Stanza  https://github.com/stanfordnlp/stanza/
 
-
 - l'annotation (et la ré-annotation) en analyse de dépendance avec UDpipe
 les annotations de dépendance (UD)
 https://universaldependencies.org/
 
-TASK:  Chercher l'étiquette des relatives et des complétives nominales
+**TASK**:  Chercher l'étiquette des relatives et des complétives nominales
 
 - le modèle CONNL-X (CONNL-U) de présentation des données
 
