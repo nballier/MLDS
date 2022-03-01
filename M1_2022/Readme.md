@@ -2,7 +2,6 @@
 
 1 mars 9h-12h30 14h-17h30  <br>
 
-
 22 mars  9h-12h30 14h-17h30
 
 Les taggers probabilistes sont capables d'apprendre à prédire la catégorie morpho-syntaxique des mots, à partir de corpus d'entraînements. Plusieurs types d'annotations linguistiques sont possibles et plusieurs jeux d'étiquette (tagsets) ont été proposés pour des langues bien décrites comme l'anglais. Pour l'anglais, les jeux d'étiquettes implémentés confèrent des statuts différents aux réalisations possibles de that (Ballier et al, submitted). On s'intéressera ici à la distinction entre that relatif (The man that I saw) et le that des complétives nominales (the fact that I saw a man)  qui n'est distinguée que dans la version 8 de la CLAWS.
@@ -17,12 +16,12 @@ Présentation générale du NLP
 exposés:
 - jeux d'étiquettes pour l'anglais et rappels sur l'annotation
 
-CLAWS 5
-http://ucrel.lancs.ac.uk/claws5tags.html
-CLAWS 7
-http://ucrel.lancs.ac.uk/claws7tags.html
-CLAWS 8:
-ucrel.lancs.ac.uk/claws8tags.pdf
+CLAWS 5 <br>
+http://ucrel.lancs.ac.uk/claws5tags.html <br>
+CLAWS 7 <br>
+http://ucrel.lancs.ac.uk/claws7tags.html <br>
+CLAWS 8: <br>
+ucrel.lancs.ac.uk/claws8tags.pdf <br>
 
 UPenn tagset
 https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
