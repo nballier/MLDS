@@ -1,6 +1,6 @@
 
 
-1 mars 9h-12h30 14h-17h30
+1 mars 9h-12h30 14h-17h30 \\
 22 mars  9h-12h30 14h-17h30
 
 Les taggers probabilistes sont capables d'apprendre à prédire la catégorie morpho-syntaxique des mots, à partir de corpus d'entraînements. Plusieurs types d'annotations linguistiques sont possibles et plusieurs jeux d'étiquette (tagsets) ont été proposés pour des langues bien décrites comme l'anglais. Pour l'anglais, les jeux d'étiquettes implémentés confèrent des statuts différents aux réalisations possibles de that (Ballier et al, submitted). On s'intéressera ici à la distinction entre that relatif (The man that I saw) et le that des complétives nominales (the fact that I saw a man)  qui n'est distinguée que dans la version 8 de la CLAWS.
@@ -112,7 +112,7 @@ A partir de l'annotation du corpus Brown contenue dans la bibliothèque NLTK,  l
 Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip Upload your .zip file on the moodle, inluding the PDF describing your system, the text file including your examples of noun complement clauses and your code.
 Explain who did what.  
 
-Deadline de remise des travaux : 15 mai 2021 minuit.
+Deadline de remise des travaux : 23 avril 2022 minuit.
 
 
 PLAN-TYPE:
