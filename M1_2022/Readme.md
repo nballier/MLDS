@@ -140,16 +140,16 @@ problématique N proposition
 - expérience réannotation partielle (précision)
 - expérience : réannotation "maximale" (60% du Brown) (précision?)
 
-4. Discussion
-4.1 gain en précision ?
+4. Discussion <br>
+4.1 gain en précision ? <br>
 (graphe:  x: nombre d'exemples / y précision ) ?
 [Si vous disposez de plusieurs sections du Brown (sinon coupez votre corpus d'annotation en deux ou en dix), faites l'expérience suivante: si vous réentraînez TreeTagger avec la moitié ou avec un corpus d'entraînement plus gros, quel est le gain en précision?
 Vous pouvez faire figurer en x le nombre de tokens du corpus d'entraînement ou le nombre de that annotés.]
 
 
 
-4.2.  surentrainement  (catégories du corpus Brown : press > anglais technique?)
-4.3 features sous-estimés (pluriel / singulier) / that ou zéro ? / that adjacent ou pas ?
+4.2.  surentrainement  (catégories du corpus Brown : press > anglais technique?) <br>
+4.3 features sous-estimés (pluriel / singulier) / that ou zéro ? / that adjacent ou pas ? <br>
 
 Conclusion / pistes de recherche
 
