@@ -38,7 +38,6 @@ https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 
 **22 mars**
-
 Le parsing : CoreNLP, cleanNLP: l'annotation de la syntaxe par constituants (et l'analyse en dépendances)
 (CoreNLP)
 https://stanfordnlp.github.io/CoreNLP/demo.html
@@ -55,13 +54,11 @@ les annotations de dépendance (UD)
 https://universaldependencies.org/
 
 **TASK**:  Chercher l'étiquette des relatives et des complétives nominales
-
-- le modèle CONNL-X (CONNL-U) de présentation des données
+- le modèle CONNL-X (CONNL-U) de présentation des données : comprendre les caractéristiques des annotations
 
 Buchholz, Sabine, & Marsi, Erwin (2006, June). CoNLL-X shared task on multilingual dependency parsing. In Proceedings of the tenth conference on computational natural language learning (CoNLL-X) (pp. 149-164).
 
-
-TASK:  Identification des colonnes et  l'annotation et la ré-annotation avec UDpipe
+**TASK: ** Identification des colonnes et  l'annotation et la ré-annotation avec UDpipe
 
 https://github.com/ufal/udpipe
 
@@ -73,14 +70,13 @@ les modèles UD pour l'anglais: https://universaldependencies.org/
 
 l'exemple du modèle GUM:
 https://universaldependencies.org/treebanks/en_gum/index.html
-TASK : dans le modèle partut : identifier les erreurs d'annotation
 
+TASK : dans le modèle partut : identifier les erreurs d'annotation
 https://raw.githubusercontent.com/UniversalDependencies/UD_English-ParTUT/master/en_partut-ud-test.conllu
 
 modèle GUM et autres modèles
 
-évaluation de la qualité (evaluation campaign)
-
+évaluation de la qualité (_evaluation campaign_)
 Wisniewski, G., & Yvon, F. (2019, June). How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project. In 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 218-227).
 https://hal.archives-ouvertes.fr/hal-02055137
 
@@ -90,9 +86,7 @@ Wisniewski, G. (2018, May). Errator: a tool to help detect annotation errors in 
 Errator https://perso.limsi.fr/wisniews/errator/
 
 BONUS:
-
 - les complétives nominales zéro (plus the fact I'm a coward)
-
 - l'incorpation du trait (feature) [+singulier] ou [+pluriel]
 
 -feature engineering : ajouter des features sémantiques dans les noms : expérience avec la bibliothèque skweak de python, utiliser les fonction supervisées pour annoter les éléments pertinents. (ex. utiliser les fonctionnalités de gazetteer pour détecter les noms recteurs). 
@@ -110,17 +104,17 @@ A partir de l'annotation du corpus Brown contenue dans la bibliothèque NLTK,  l
 
 - à une classification des réalisations du that postnominal dans le Brown
 
-- à un entraînement de Treetagger avec les étiquettes WPR pour le that relatif et CJT pour le that complétif. Ils évalueront la précision et le rappel de leur modèle.
+- à un entraînement de Treetagger avec les étiquettes WPR pour le that relatif et CJT pour le _that_ complétif. Ils évalueront la précision et le rappel de leur modèle. (**question bonus**: annoter avec AV0 pour les réalisations adverbiales et CST pour le _that_ des complétives du verbe)
 
 - à partir de l'analyse en dépendance du corpus Brown, ils testeront l'annotation obtenue avec les différents modèles disponibles sur le github de UD et évalueront la qualité des modèles à l'aune de la distinction relative/complétive.
 
 Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip Upload your .zip file on the moodle, inluding the PDF describing your system, the text file including your examples of noun complement clauses and your code.
 Explain who did what.  
 
-Deadline de remise des travaux : 23 avril 2022 minuit.
+**Deadline** de remise des travaux : 23 avril 2022 minuit.
 
 
-PLAN-TYPE:
+# PLAN-TYPE:
 Introduction (deux structures : exemples, rappel des propriétés)
 problématique N proposition
 
