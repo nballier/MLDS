@@ -33,9 +33,8 @@ renvoie les métriques suivantes:
 - LAS: using aligned words, how well does HEAD+DEPREL(ignoring subtypes) match
 - CLAS: using aligned words, how well does HEAD+DEPREL(ignoring subtypes) match,
 ignoring functional words and punctuation (deprels listed in CLAS_weights)
-- if custom weights_file is given (with lines containing deprel-weight pairs),
-one more metric (a generalization of CLAS) is shown:
-(Nivre et Lang, 2017)
+- BLEX: using aligned words with content DEPREL, how well does HEAD+DEPREL(ignoring subtypes)+LEMMAS match
+
 # performances des modèles pour l'anglais:
 https://github.com/jwijffels/udpipe.models.ud.2.5/blob/master/inst/udpipe-ud-2.5-191206/README#L161
 
