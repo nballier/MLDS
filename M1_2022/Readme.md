@@ -143,6 +143,8 @@ Vous pouvez faire figurer en x le nombre de tokens du corpus d'entraînement ou 
 
 4.2.  surentrainement  (catégories du corpus Brown : press > anglais technique?) <br>
 4.3 features sous-estimés (pluriel / singulier) / that ou zéro ? / that adjacent ou pas ? <br>
+optionnel : a-t-on de meilleurs résultats en cherchant avec UDpipe les relatives (acl:relcl) et les complétives (acl)? <br>
+
 
 Conclusion / pistes de recherche
 
