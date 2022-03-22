@@ -4,7 +4,7 @@
 
 22 mars  9h-12h30 14h-17h30
 
-Les taggers probabilistes sont capables d'apprendre à prédire la catégorie morpho-syntaxique des mots, à partir de corpus d'entraînements. Plusieurs types d'annotations linguistiques sont possibles et plusieurs jeux d'étiquette (tagsets) ont été proposés pour des langues bien décrites comme l'anglais. Pour l'anglais, les jeux d'étiquettes implémentés confèrent des statuts différents aux réalisations possibles de that (Ballier et al, submitted). On s'intéressera ici à la distinction entre that relatif (The man that I saw) et le that des complétives nominales (the fact that I saw a man)  qui n'est distinguée que dans la version 8 de la CLAWS.
+Les taggers probabilistes sont capables d'apprendre à prédire la catégorie morpho-syntaxique des mots, à partir de corpus d'entraînements. Plusieurs types d'annotations linguistiques sont possibles et plusieurs jeux d'étiquette (tagsets) ont été proposés pour des langues bien décrites comme l'anglais. Pour l'anglais, les jeux d'étiquettes implémentés confèrent des statuts différents aux réalisations possibles de that (Ballier et al, submitted). On s'intéressera ici à la distinction entre that relatif (The man that I saw) et le that des complétives nominales (the fact that I saw a man)  qui n'est distinguée que dans la version 8 de la CLAWS. Le projet à réaliser pour l'évaluation consiste à re-éntraîner un tagger pour annoter la distintion *that* de complétive nominale (conjonction de subordination, CST) et *that* de relative (pronom, WPR) et d'analyser le rôle de la fréquence des *that* dans les corpus d'entraînements sur la précision (*accuracy*).
 
 
 FRAMAPAD:
