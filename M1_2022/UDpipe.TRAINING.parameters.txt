@@ -1,0 +1,43 @@
+UDpipe.TRAINING.parameters.txt
+
+Pour ré-entraîner une annotation en UDpipe
+UPipe (C++, implémentations en R et en Python)
+https://pypi.org/project/ufal.udpipe/
+
+- Les Treebanks de référence sur github. ex: https://github.com/UniversalDependencies/UD_English-EWT
+- fichiers de train, dev (test)
+- les paramètres de l'entraînement:
+lemmatiser
+tagger
+parser
+(les word embeddings les paramètres du réseau de neurones)
+
+# exemple de paramètres par défaut (sous R)
+# WHEN USING THE default parameters, eg for partut
+system.time(m.partut <- udpipe_train(file = "partut.toymodel.dev_train_default.udpipe", files_conllu_training = file_train_conllu, files_conllu_holdout  =  file_dev_conllu,
+  annotation_tokenizer = "default",
+  annotation_tagger = "default",
+  annotation_parser = "default")
+)
+# compter entre 45 minutes et une heure
+
+#par exemple: les valeurs par défaut du tokeniser
+Training tokenizer with the following options: tokenize_url=1, allow_spaces=0, dimension=24
+  epochs=100, batch_size=50, segment_size=50, learning_rate=0.0050, learning_rate_final=0.0000
+  dropout=0.1000, early_stopping=1
+
+#  évaluer son modèle  sous UDPIPE : les métriques de précision (accuracy)
+disposer d'un fichier 'gold' (avec les bonnes étiquettes). Le script d'évaluation
+renvoie les métriques suivantes:
+- UAS: using aligned words, how well does HEAD match
+- LAS: using aligned words, how well does HEAD+DEPREL(ignoring subtypes) match
+- CLAS: using aligned words, how well does HEAD+DEPREL(ignoring subtypes) match,
+ignoring functional words and punctuation (deprels listed in CLAS_weights)
+- if custom weights_file is given (with lines containing deprel-weight pairs),
+one more metric (a generalization of CLAS) is shown:
+(Nivre et Lang, 2017)
+# performances des modèles pour l'anglais:
+https://github.com/jwijffels/udpipe.models.ud.2.5/blob/master/inst/udpipe-ud-2.5-191206/README#L161
+
+
+
