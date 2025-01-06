@@ -1,8 +1,8 @@
 
 
-1 mars 9h-12h30 14h-17h30  <br>
+8 janvier  2025   9h-12h30 14h-17h30  <br>
 
-22 mars  9h-12h30 14h-17h30
+15 janvier 2025  9h-12h30 14h-17h30
 
 Les taggers probabilistes sont capables d'apprendre à prédire la catégorie morpho-syntaxique des mots, à partir de corpus d'entraînements. Plusieurs types d'annotations linguistiques sont possibles et plusieurs jeux d'étiquette (tagsets) ont été proposés pour des langues bien décrites comme l'anglais. Pour l'anglais, les jeux d'étiquettes implémentés confèrent des statuts différents aux réalisations possibles de *that* (Ballier et al, submitted). On s'intéressera ici à la distinction entre *that* relatif (*The man that I saw*) et le *that* des complétives nominales (*the fact that I saw a man*), qui n'est distinguée que dans la version 8 de la CLAWS. Le projet à réaliser pour l'évaluation consiste à re-éntraîner un tagger pour annoter la distintion *that* de complétive nominale (conjonction de subordination, CST) vs. *that* de relative (pronom, WPR) et d'analyser le rôle de la fréquence des *that* dans les corpus d'entraînements sur la précision (*accuracy*).
 
@@ -29,14 +29,13 @@ Santorini, B. 1990. Part-of-speech tagging guidelines for the Penn Treebank Proj
 
 - complétives nominales et relatives: différences structurelles et recherche de features
 
-
 - l'annotation et la réannotation avec Treetagger
 
 **Treetagger
 https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 
-**22 mars**
+**15 mars**
 Le parsing : CoreNLP, cleanNLP: l'annotation de la syntaxe par constituants (et l'analyse en dépendances)
 (CoreNLP)
 https://stanfordnlp.github.io/CoreNLP/demo.html
@@ -52,10 +51,13 @@ coreNLP -> Stanza  https://github.com/stanfordnlp/stanza/
 les annotations de dépendance (UD)
 https://universaldependencies.org/
 
+
 **TASK**:  Chercher l'étiquette des relatives et des complétives nominales
 - le modèle CONNL-X (CONNL-U) de présentation des données : comprendre les caractéristiques des annotations
 
+
 Buchholz, Sabine, & Marsi, Erwin (2006, June). CoNLL-X shared task on multilingual dependency parsing. In Proceedings of the tenth conference on computational natural language learning (CoNLL-X) (pp. 149-164).
+
 
 **TASK: ** Identification des colonnes et  l'annotation et la ré-annotation avec UDpipe
 
@@ -84,6 +86,12 @@ Wisniewski, G. (2018, May). Errator: a tool to help detect annotation errors in 
 
 Errator https://perso.limsi.fr/wisniews/errator/
 
+
+Stanza , Spacy : analyse du Treebank d'entraînement.
+
+
+
+
 BONUS:
 - les complétives nominales zéro (plus the fact I'm a coward)
 - l'incorpation du trait (feature) [+singulier] ou [+pluriel]
@@ -91,11 +99,13 @@ BONUS:
 -feature engineering : ajouter des features sémantiques dans les noms : expérience avec la bibliothèque skweak de python, utiliser les fonction supervisées pour annoter les éléments pertinents. (ex. utiliser les fonctionnalités de gazetteer pour détecter les noms recteurs). 
 https://github.com/NorskRegnesentral/skweak
 
+
 l'approche machine learning : analyse en features:
 - structuration du jeu de données (l'approche par dataset) : quelle information extraire? (Groupe 9)
 - le feature engineering
 - assigning more complex features. exemple avec that et d'autres réalisations (proforme) Gaillat et al. (2014)
 https://www.researchgate.net/publication/266209855_Automated_classification_of_unexpected_uses_of_this_and_that_in_a_learner_corpus_of_English#fullTextFileContent
+
 
 évaluation/projet étudiant
 
@@ -107,10 +117,22 @@ A partir de l'annotation du corpus Brown contenue dans la bibliothèque NLTK,  l
 
 - à partir de l'analyse en dépendance du corpus Brown, ils testeront l'annotation obtenue avec les différents modèles disponibles sur le github de UD et évalueront la qualité des modèles à l'aune de la distinction relative/complétive.
 
-Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip Upload your .zip file on the moodle, inluding the PDF describing your system, the text file including your examples of noun complement clauses and your code.
-Explain who did what.  
+- Ils évalueront le rôle de la taille des données d'entraînement pour les gains en précision pour l'annotation, dans  proposer une 
+  
+bonus : réannotation du that comme déterminant, adverbe, conjonction (avec les verbes), pronom relatif et conjonction dans les complétives.
+A partir des corpus de tests, la précision est-elle la même selon les catégories? Produire une matrice de confusion des exemples.
 
-**Deadline** de remise des travaux : 23 avril 2022 minuit.
+
+
+
+Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip Upload your .zip file on  moodle, including the PDF describing your system, the text file including your examples of noun complement clauses and your code.
+Explain who did what in the paper.  
+
+
+Follow standard recommendations  for plagiarism and generative AI. Indicate in your appendix the prompts you have used if you have 
+
+
+**Deadline** de remise des travaux : 9 février 2025 minuit.
 
 
 # PLAN-TYPE:
@@ -119,7 +141,7 @@ problématique N proposition
 
 1. Travaux précédents
 - jeux d'étiquettes (CLAWS8)
-- Penn treebank
+- Penn Treebank
 - UD (ccomp -> acl vs. acl:relcl)
 
 2. Méthodes et outils
@@ -141,16 +163,15 @@ problématique N proposition
 Vous pouvez faire figurer en x le nombre de tokens du corpus d'entraînement ou le nombre de that annotés.]
 
 
-
 4.2.  surentrainement  (catégories du corpus Brown : press > anglais technique?) <br>
 4.3 features sous-estimés (pluriel / singulier) / that ou zéro ? / that adjacent ou pas ? <br>
 
 optionnel : a-t-on de meilleurs résultats en cherchant avec UDpipe les relatives (acl:relcl) et les complétives (acl)? <br>
 optionnel : a-t-on de meilleurs résultats si on ré-entraîne  les xpos en WPR et SST  pour les *that* avec UDpipe ? <br>
 
-
 Conclusion / pistes de recherche
 
 Annexe
 exemples de phrases réannotées
+
 
