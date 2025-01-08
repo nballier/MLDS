@@ -35,7 +35,7 @@ Santorini, B. 1990. Part-of-speech tagging guidelines for the Penn Treebank Proj
 https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 
-** 8 janvier 2025**
+** 15 janvier 2025**
 
 Le parsing : CoreNLP, cleanNLP: l'annotation de la syntaxe par constituants (et l'analyse en dépendances)
 (CoreNLP)
@@ -56,6 +56,7 @@ https://universaldependencies.org/
 - le modèle CONNL-X (CONNL-U) de présentation des données : comprendre les caractéristiques des annotations
 
 Buchholz, Sabine, & Marsi, Erwin (2006, June). CoNLL-X shared task on multilingual dependency parsing. In Proceedings of the tenth conference on computational natural language learning (CoNLL-X) (pp. 149-164).
+
 
 
 **TASK: ** Identification des colonnes et  l'annotation et la ré-annotation avec UDpipe
@@ -88,7 +89,6 @@ Errator https://perso.limsi.fr/wisniews/errator/
 
 
 Stanza , Spacy : analyse du Treebank d'entraînement.
-
 
 
 
