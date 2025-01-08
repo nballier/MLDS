@@ -2,7 +2,6 @@
 
 ## LABS 
 
-
 #  Treetagger for POS-tagging:
 Test the tags and report the precision for the different test sets.
 
@@ -25,6 +24,9 @@ DT singular determiner (e.g. "this", "that", "another")  <br/>
 RB adverb  (it's not that difficult)   <br/>
 
 
+
+For collaborative teams, explain in one paragraph who did what. Follow the CRediT attribution system 
+ [doi:10.1087/20150211](https://www.researchgate.net/profile/Amy-Brand-2/publication/274098676_Beyond_authorship_Attribution_contribution_collaboration_and_credit/links/565b08c608aeafc2aac60656/Beyond-authorship-Attribution-contribution-collaboration-and-credit.pdf?__cf_chl_tk=oAqPOf76kxzKQ2Eo34enuDZpmKGvCijbSCoVQ5OYBrM-1736343622-1.0.1.1-SvCS95t3z1me8LVpJQkpRsN1e8PAQNTh7Yk5gjV1gqg) 
 
 Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip 
 
