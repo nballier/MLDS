@@ -1,6 +1,7 @@
 # PHONOLOGY 
 
 #CMU Resources   <br/>
+[CMU]([http://www.lexique.org/](http://www.speech.cs.cmu.edu/cgi-bin/cmudict)) <br/>
 (part of the NLTK toolkit)  <br/>
 Dedicated python packages: Pronouncing   <br/>
 
@@ -10,7 +11,7 @@ Dedicated python packages: Pronouncing   <br/>
 [A lexical database](http://www.lexique.org/) <br/>
 [Pallier et al. 2001](https://www.persee.fr/doc/psy_0003-5033_2001_num_101_3_1341]) <br/>
 Pallier Ch. et al. 2001 Une base de données lexicales du français contemporain sur internet : LEXIQUE™  <br/>
-//L'Année psychologique// Année 2001 101-3-4 pp. 447-462
+//*L'Année psychologique*// Année 2001 101-3-4 pp. 447-462
 
 
 ###ALIGNERS <br/>
