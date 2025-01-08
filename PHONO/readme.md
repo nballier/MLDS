@@ -49,7 +49,7 @@ MISC
 Replication task : replicate data extraction from [YT] https://www.youtube.com/watch?v=_P7_69FeqnU
 Using the [Jupyter notebook](https://github.com/stcoats/phonetics_pipeline/blob/main/YouTube_phonetics_pipeline.ipynb) <br/>
 
-#References  <br/>
+# References  <br/>
 https://doi.org/10.14618/1z5k-pb25    <br/>
 
 Adrien Méli, Steven Coats, and Nicolas Ballier. 2023. Methods for Phonetic Scraping of Youtube Videos. In *Proceedings of the 6th International Conference on Natural Language and Speech Processing (ICNLSP 2023)*, pages 244–249, Online. [Association for Computational Linguistics](https://aclanthology.org/2023.icnlsp-1.25/) <br/>
