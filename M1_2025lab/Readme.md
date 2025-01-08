@@ -26,3 +26,9 @@ RB adverb  (it's not that difficult)   <br/>
 Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip 
 
 Upload your .zip file on  moodle, inluding the PDF describing your system, the text file including your examples of noun complement clauses and your code.
+
+
+### Dépôt sur moodle
+"IFHFBU41 Data Science avancée" pour les M1 en alternance  [IFHFBE40 Data science avancée](https://moodle.u-paris.fr/course/view.php?id=28636#section-1)
+
+et "IFABY030 Data Science avancée" pour less [M1 en formation initiale](https://moodle.u-paris.fr/course/view.php?id=28339#section-0)
