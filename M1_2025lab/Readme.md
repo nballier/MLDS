@@ -62,7 +62,8 @@ CLAWS 5 <br>
 http://ucrel.lancs.ac.uk/claws5tags.html <br>
 CLAWS 7 <br>
 http://ucrel.lancs.ac.uk/claws7tags.html <br>
-[CLAWS 8](ucrel.lancs.ac.uk/claws8tags.pdf) <br>
+[CLAWS 8](https://ucrel.lancs.ac.uk/claws8tags.pdf) <br>
+
 
 UPenn tagset
 https://www.ling.upenn.edu/courses/Fall_2003/ling001/penn_treebank_pos.html
