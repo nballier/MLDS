@@ -35,7 +35,8 @@ Santorini, B. 1990. Part-of-speech tagging guidelines for the Penn Treebank Proj
 https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 
-**15 mars**
+** 8 janvier 2025**
+
 Le parsing : CoreNLP, cleanNLP: l'annotation de la syntaxe par constituants (et l'analyse en dépendances)
 (CoreNLP)
 https://stanfordnlp.github.io/CoreNLP/demo.html
@@ -51,10 +52,8 @@ coreNLP -> Stanza  https://github.com/stanfordnlp/stanza/
 les annotations de dépendance (UD)
 https://universaldependencies.org/
 
-
 **TASK**:  Chercher l'étiquette des relatives et des complétives nominales
 - le modèle CONNL-X (CONNL-U) de présentation des données : comprendre les caractéristiques des annotations
-
 
 Buchholz, Sabine, & Marsi, Erwin (2006, June). CoNLL-X shared task on multilingual dependency parsing. In Proceedings of the tenth conference on computational natural language learning (CoNLL-X) (pp. 149-164).
 
@@ -81,7 +80,8 @@ modèle GUM et autres modèles
 Wisniewski, G., & Yvon, F. (2019, June). How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project. In 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 218-227).
 https://hal.archives-ouvertes.fr/hal-02055137
 
-outil de vérification
+
+### outil de vérification
 Wisniewski, G. (2018, May). Errator: a tool to help detect annotation errors in the universal dependencies project. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018).
 
 Errator https://perso.limsi.fr/wisniews/errator/
@@ -92,13 +92,12 @@ Stanza , Spacy : analyse du Treebank d'entraînement.
 
 
 
-BONUS:
+## BONUS:
 - les complétives nominales zéro (plus the fact I'm a coward)
 - l'incorpation du trait (feature) [+singulier] ou [+pluriel]
 
 -feature engineering : ajouter des features sémantiques dans les noms : expérience avec la bibliothèque skweak de python, utiliser les fonction supervisées pour annoter les éléments pertinents. (ex. utiliser les fonctionnalités de gazetteer pour détecter les noms recteurs). 
 https://github.com/NorskRegnesentral/skweak
-
 
 l'approche machine learning : analyse en features:
 - structuration du jeu de données (l'approche par dataset) : quelle information extraire? (Groupe 9)
@@ -124,7 +123,6 @@ A partir des corpus de tests, la précision est-elle la même selon les catégor
 
 
 
-
 Your paper should follow the ACL template and style sheet for papers Style sheets (Latex, Word) are available here: http://acl2020.org/downloads/acl2020-templates.zip Upload your .zip file on  moodle, including the PDF describing your system, the text file including your examples of noun complement clauses and your code.
 Explain who did what in the paper.  
 
@@ -133,7 +131,6 @@ Follow standard recommendations  for plagiarism and generative AI. Indicate in y
 
 
 **Deadline** de remise des travaux : 9 février 2025 minuit.
-
 
 # PLAN-TYPE:
 Introduction (deux structures : exemples, rappel des propriétés)
