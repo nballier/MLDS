@@ -1,6 +1,5 @@
 # PHONOLOGY 
 
-
 #CMU Resources   <br/>
 (part of the NLTK toolkit)  <br/>
 Dedicated python packages: Pronouncing   <br/>
@@ -29,12 +28,10 @@ test the files and create your own annotation <br/>
 PRAAT <br/>
 Download Praat for Phonetic / acoustic analysis <br/>
 
-
 - align data 
 - extract data
 - analyse data 
 - train model
-
 
 EXAMPLE
 Adrien Méli's PhD
@@ -43,6 +40,21 @@ http://mapage.noos.fr/admeli/soutenance/#/
 
 MISC
 [Phonetic conversion (and text to speech)](https://tophonetics.com/) <br/>
+
+
+
+
+### 2025 CASE STUDY <br/>
+
+Replication task : replicate data extraction from [YT] https://www.youtube.com/watch?v=_P7_69FeqnU
+Using the [Jupyter notebook](https://github.com/stcoats/phonetics_pipeline/blob/main/YouTube_phonetics_pipeline.ipynb) <br/>
+
+#References
+https://doi.org/10.14618/1z5k-pb25
+Adrien Meli, Steven Coats, and Nicolas Ballier. 2023. Methods for Phonetic Scraping of Youtube Videos. In Proceedings of the 6th International Conference on Natural Language and Speech Processing (ICNLSP 2023), pages 244–249, Online. [Association for Computational Linguistics](https://aclanthology.org/2023.icnlsp-1.25/) <br/>
+ 
+
+
 
 
 
