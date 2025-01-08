@@ -3,7 +3,11 @@
 ## LABS 
 
 #  Treetagger for POS-tagging:
-Test the tags and report the precision for the different test sets.
+For all the categories of *that*, run Treetagger with the test files. Report precision for each realisation. For instance, that as adverbs should be tagged as AVO (BNC.par, CLaws5 tagset) or RB (default parameter, Penn.par model, Penn Treebank tagset). 
+Test the different testing files tags and report the precision for the different test sets.
+
+bonus: compare performance of Penn and BNC.
+
 
 
 # Retrain Treetagger   <br/>
