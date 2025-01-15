@@ -220,6 +220,11 @@ optionnel : a-t-on de meilleurs résultats si on ré-entraîne  les xpos en WPR 
 
 Conclusion / pistes de recherche
 
+Bibliographie:
+Utiliser le format APA : 
+Schmid, H. (1999). Improvements in part-of-speech tagging with an application to German. In _Natural language processing using very large corpora_ (pp. 13-25). Dordrecht: Springer Netherlands.
+
+
 Annexe:
 - carnet jupyter avec expérience reproductible.
 - fichier(s) de réentraînement (exemples de phrases réannotées)
