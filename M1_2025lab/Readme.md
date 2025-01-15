@@ -174,14 +174,19 @@ Follow standard recommendations  for plagiarism and generative AI. Indicate in y
 
 **Deadline** de remise des travaux : 9 février 2025 minuit.
 
+
 # PLAN-TYPE:
 Introduction (deux structures : exemples, rappel des propriétés)
-problématique N proposition
+Explication de la problématique de la ré-annotation 
+Bilan de votre exploration d'un Treebank (limites..., données extraites)
 
-1. Travaux précédents
+
+1. Travaux précédents sur l'analyse du that et sa réannotation
+(use Google Scolar)
 - jeux d'étiquettes (CLAWS8)
 - Penn Treebank
-- UD (ccomp -> acl vs. acl:relcl)
+- UD pour l'analyse des dépendances (ccomp -> acl vs. acl:relcl)
+
 
 2. Méthodes et outils
 - Treebank (extractions des exemples type présentts dans le Treebank)
@@ -193,24 +198,27 @@ problématique N proposition
 
 3. Résultats
 - baseline: Treetagger avec le fichier paramètre .par par défaut
-- expérience réannotation partielle (précision)
-- expérience : réannotation "maximale" (60% du Brown) (précision?)
+- expérience réannotation partielle (précision du modèle réentraîner)
+- expérience : réannotation "maximale" (corpus synthétique, Brown ré-annoté) 
 
 4. Discussion <br>
 4.1 gain en précision ? <br>
 (graphe:  x: nombre d'exemples / y précision ) ?
 [Si vous disposez de plusieurs sections du Brown (sinon coupez votre corpus d'annotation en deux ou en dix), faites l'expérience suivante: si vous réentraînez TreeTagger avec la moitié ou avec un corpus d'entraînement plus gros, quel est le gain en précision?
-Vous pouvez faire figurer en x le nombre de tokens du corpus d'entraînement ou le nombre de that annotés.]
+Vous pouvez faire figurer en x le nombre de tokens du corpus d'entraînement ou le nombre de that annotés. Avec les corpus synthétiques, comparez avec 100, 200, 500 phrases.]
 
 
-4.2.  surentrainement  (catégories du corpus Brown : press > anglais technique?) <br>
+4.2.  surentrainement  (catégories du corpus Brown : press > anglais technique)? <br>
+Quelle conséquencee le ré-entraînement sur une seule catégorie produit?
+
+
 4.3 features sous-estimés (pluriel / singulier) / that ou zéro ? / that adjacent ou pas ? <br>
 
 optionnel : a-t-on de meilleurs résultats en cherchant avec UDpipe les relatives (acl:relcl) et les complétives (acl)? <br>
-optionnel : a-t-on de meilleurs résultats si on ré-entraîne  les xpos en WPR et SST  pour les *that* avec UDpipe ? <br>
+optionnel : a-t-on de meilleurs résultats si on ré-entraîne  les xpos en WPR et CST  pour les *that* avec UDpipe ? <br>
+
 
 Conclusion / pistes de recherche
-
 
 Annexe:
 - carnet jupyter avec expérience reproductible.
