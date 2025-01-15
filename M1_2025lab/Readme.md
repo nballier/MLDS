@@ -6,8 +6,7 @@
 For all the categories of *that*, run Treetagger with the test files. Report precision for each realisation. For instance, that as adverbs should be tagged as AVO (BNC.par, CLaws5 tagset) or RB (default parameter, Penn.par model, Penn Treebank tagset). 
 Test the different testing files tags and report the precision for the different test sets.
 
-bonus: compare performance of Penn and BNC.
-
+bonus: compare performance of Penn and BNC models with Treetagger (bnc.par et penn.par).
 
 
 # Retrain Treetagger   <br/>
@@ -18,7 +17,7 @@ bonus: compare performance of Penn and BNC.
 
 # ASSIGNMENT:
 
-Retrain Treetagger with a specific tagset that distinguishes the different uses of *that*. Report precision and recall with the specific datasets.
+Retrain Treetagger with a specific tagset that distinguishes the different uses of *that*. Report precision and recall with the specific test datasets.
 
 ### C8 tagset [adapted]:(https://ucrel.lancs.ac.uk/claws8tags.pdf)   <br/>
 WPR relative pronoun, "that"  <br/>
@@ -26,7 +25,6 @@ CST "that" (as conjunction for nouns, as in *the fact that*). Note that this tag
 CJT "that" as a conjunction for verbs (I think that you are right)    <br/>
 DT singular determiner (e.g. "this", "that", "another")  <br/>
 RB adverb  (it's not that difficult)   <br/>
-
 
 
 For collaborative teams, explain in one paragraph who did what. Follow the CRediT attribution system 
@@ -41,8 +39,6 @@ Upload your .zip file on  moodle, inluding the PDF describing your system, the t
 "IFHFBU41 Data Science avancée" pour les M1 en alternance  [IFHFBE40 Data science avancée](https://moodle.u-paris.fr/course/view.php?id=28636#section-1)
 
 et "IFABY030 Data Science avancée" pour less [M1 en formation initiale](https://moodle.u-paris.fr/course/view.php?id=28339#section-0)
-
-
 
 
 
@@ -82,6 +78,9 @@ https://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/
 
 
 ** 8 janvier 2025**
+TreeTagger
+
+** 15 janvier 2025**
 
 Le parsing : CoreNLP, cleanNLP: l'annotation de la syntaxe par constituants (et l'analyse en dépendances)
 (CoreNLP)
@@ -120,21 +119,19 @@ https://universaldependencies.org/treebanks/en_gum/index.html
 TASK : dans le modèle partut : identifier les erreurs d'annotation
 https://raw.githubusercontent.com/UniversalDependencies/UD_English-ParTUT/master/en_partut-ud-test.conllu
 
-modèle GUM et autres modèles
 
-évaluation de la qualité (_evaluation campaign_)
+
+Remarque: pour l'évaluation de la qualité (_evaluation campaign_)
 Wisniewski, G., & Yvon, F. (2019, June). How Bad are PoS Tagger in Cross-Corpora Settings? Evaluating Annotation Divergence in the UD Project. In 2019 Annual Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies (pp. 218-227).
 https://hal.archives-ouvertes.fr/hal-02055137
 
-
-### outil de vérification
+### outil de vérification (pour info)
 Wisniewski, G. (2018, May). Errator: a tool to help detect annotation errors in the universal dependencies project. In Proceedings of the Eleventh International Conference on Language Resources and Evaluation (LREC 2018).
 
 Errator https://perso.limsi.fr/wisniews/errator/
 
 
 Stanza , Spacy : analyse du Treebank d'entraînement.
-
 
 
 
@@ -154,17 +151,16 @@ https://www.researchgate.net/publication/266209855_Automated_classification_of_u
 
 évaluation/projet étudiant
 
-A partir de l'annotation du corpus Brown contenue dans la bibliothèque NLTK,  les étudiants procèderont
+A partir de l'annotation des corpus présents dans les Treebanks et du Brown contenue dans la bibliothèque NLTK,  les étudiants procèderont
+- à une classification des réalisations du that postnominal dans les Treebanks de référence
 
-- à une classification des réalisations du that postnominal dans le Brown
+- à un entraînement de Treetagger avec les étiquettes WPR pour le that relatif, RO pour le that adverbial et CJT pour le _that_ complétif de verbe et CST pour le . Ils évalueront la précision et le rappel de leur modèle. (**question bonus**: annoter les réalisation de _that_ pronom (_I love that!_).
 
-- à un entraînement de Treetagger avec les étiquettes WPR pour le that relatif et CJT pour le _that_ complétif. Ils évalueront la précision et le rappel de leur modèle. (**question bonus**: annoter avec AV0 pour les réalisations adverbiales et CST pour le _that_ des complétives du verbe)
+- à partir des l'analyse en dépendance du corpus Brown, ils testeront l'annotation obtenue avec les différents modèles disponibles sur le github de UD et évalueront la qualité des modèles à l'aune de la distinction relative/complétive.
 
-- à partir de l'analyse en dépendance du corpus Brown, ils testeront l'annotation obtenue avec les différents modèles disponibles sur le github de UD et évalueront la qualité des modèles à l'aune de la distinction relative/complétive.
-
-- Ils évalueront le rôle de la taille des données d'entraînement pour les gains en précision pour l'annotation, dans  proposer une 
+- Ils évalueront le rôle de la taille des données d'entraînement pour les gains en précision pour l'annotation.
   
-bonus : réannotation du that comme déterminant, adverbe, conjonction (avec les verbes), pronom relatif et conjonction dans les complétives.
+bonus : réannotation du that comme pronom (I love that).
 A partir des corpus de tests, la précision est-elle la même selon les catégories? Produire une matrice de confusion des exemples.
 
 
