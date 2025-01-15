@@ -1,0 +1,5 @@
+Exemple de fichier de Lexicon. Il doit respecter la structure sur trois colonnes : token POS lemma
+
+Il ne doit pas comporter de doublons. Normalement, tous les mots que Treetagger doit annoter doivent y être présents.
+
+(voir la documentation de Treetagger pour le ré-entraînement).
