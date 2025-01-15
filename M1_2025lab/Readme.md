@@ -188,7 +188,8 @@ problématique N proposition
 - UD (ccomp -> acl vs. acl:relcl)
 
 2. Méthodes et outils
-- Brown corpus (filtrage)
+- Treebank (extractions des exemples type présentts dans le Treebank)
+- corpus synthétique si besoin 
 - méthode = réannotation et ré-entraînement (donnez des exemples de *that* réannotés)
 (optionnel : matrice de confusion annotation du corpus/étiquette réelle)
 (même chose en UD)
