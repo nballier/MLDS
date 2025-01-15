@@ -1,4 +1,0 @@
-# MLDS
-
-Docs for MA students in MLDS 2019-2020, 2020-2021, 2021-2022 and 2024-2025.
-
