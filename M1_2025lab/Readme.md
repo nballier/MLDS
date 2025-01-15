@@ -211,8 +211,12 @@ optionnel : a-t-on de meilleurs résultats si on ré-entraîne  les xpos en WPR 
 
 Conclusion / pistes de recherche
 
-Annexe
-exemples de phrases réannotées
+
+Annexe:
+- carnet jupyter avec expérience reproductible.
+- fichier(s) de réentraînement (exemples de phrases réannotées)
+- prompts éventuels pour les corpus synthétiques.
+
 
 
 
